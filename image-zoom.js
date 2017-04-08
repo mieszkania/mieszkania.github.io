@@ -28,6 +28,7 @@
     img.src = image;
     div.addEventListener('click', close);
     document.body.appendChild(div);
+    ga('send', 'event', 'Image', 'Open', image.split('/').pop());
   }
 
   window.zoom = function(element) {

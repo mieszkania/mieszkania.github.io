@@ -12,7 +12,7 @@
   function reportVisible() {
     elements = Array.prototype.filter.call(elements, function(element) {
       if (isVisible(element)) {
-        ga('send', 'event', 'Visibility', element.id);
+        ga('send', 'event', 'Visibility', 'Visible', element.id);
         return false;
       }
       return true;
