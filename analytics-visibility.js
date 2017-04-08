@@ -27,7 +27,7 @@ function findElements() {
   elements = Array.prototype.filter.call(elements, function(element) {
     return !!element.id;
   });
-  if (element.length > 0) {
+  if (elements.length > 0) {
     window.addEventListener('resize', reportVisible);
     window.addEventListener('scroll', reportVisible);
     reportVisible();
