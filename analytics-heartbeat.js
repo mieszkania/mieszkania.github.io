@@ -1,8 +1,10 @@
+var start_ms = Date.now();
 var delay_ms = 1000
 var multiplier = 1.1
 
 function sendHeartbeat() {
-  ga('send', 'event', 'Heartbeat', 'Thump');
+  var seconds = Math.floor((Date.now() - start_ms) / 1000);
+  ga('send', 'event', 'Heartbeat', 'Thump', undefined, seconds);
   setHeartbeat();
 }
 
