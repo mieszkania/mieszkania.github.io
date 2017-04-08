@@ -1,14 +1,15 @@
 body {
   font-family: Arial, Helvetica, sans-serif;
   background: white;
+  margin: 2em 1em 5em 1em;
 }
 div.content {
-  max-width: 50em;
-  margin: 0 auto;
+  max-width: 48em;
+  margin: 0 auto 0 auto;
   color: #222;
 }
 iframe.gmap {
-  width: 100%;
+  width: 98%;
   height: 25em;
   border: 1px solid lightgray;
   margin: 1em 0;
