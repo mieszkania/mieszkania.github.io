@@ -14,12 +14,14 @@ h1 {
 h2, h3 {
   color: forestgreen;
 }
+
 iframe.gmap {
   width: 98%;
   height: 25em;
   border: 1px solid lightgray;
   margin: 1em 0;
 }
+
 table.photos {
   width: 98%;
   border: none;
@@ -27,7 +29,6 @@ table.photos {
 }
 table.photos td {
   border: solid 1em white;
-  text-align: center;
 }
 table.photos td:first-child {
   border-left: none;
@@ -35,16 +36,35 @@ table.photos td:first-child {
 table.photos td:last-child {
   border-right: none;
 }
+table.photos a {
+  position: relative;
+  display: block;
+}
 table.photos div.square {
   position: relative;
   height: 0;
   padding-bottom: 100%;
 }
-table.photos div.square img {
+table.photos div.square a {
   position: absolute;
-  left: 0;
-  right: 0;
-  margin: auto;
+  height: 100%;
+  width: 100%;
+  text-align: center;
+}
+table.photos a i.material-icons {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-size: 10em;
+  text-shadow: 0 0 0.1em black;
+  visibility: hidden;
+}
+table.photos a:hover i.material-icons {
+  visibility: visible;
 }
 table.photos img {
   max-width: 100%;
