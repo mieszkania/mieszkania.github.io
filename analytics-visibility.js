@@ -1,5 +1,5 @@
 (function() {
-  var elements = [];
+  var monitoredElements = [];
 
   function isVisible(element) {
     var rect = element.getBoundingClientRect();
@@ -9,29 +9,32 @@
            rect.right > 0;
   }
 
-  function reportVisible() {
-    elements = Array.prototype.filter.call(elements, function(element) {
-      if (isVisible(element)) {
-        ga('send', 'event', 'Visibility', 'Visible', element.id);
-        return false;
+  function checkElements(event) {
+    for (var i = 0; i < monitoredElements.length; i++) {
+      var monitor = monitoredElements[i];
+      var element = monitor.element;
+      var wasVisible = monitor.visible;
+      monitor.visible = isVisible(element);
+      if (!wasVisible && monitor.visible) {
+        ga('send', 'event', 'Visibility', 'Visible', element.id, {
+          nonInteraction: !event,
+        });
       }
-      return true;
-    });
-    if (elements.length == 0) {
-      window.removeEventListener('resize', reportVisible);
-      window.removeEventListener('scroll', reportVisible);
     }
   }
 
   function findElements() {
-    elements = document.getElementsByClassName('report');
-    elements = Array.prototype.filter.call(elements, function(element) {
-      return !!element.id;
-    });
-    if (elements.length > 0) {
-      window.addEventListener('resize', reportVisible);
-      window.addEventListener('scroll', reportVisible);
-      reportVisible();
+    allElements = document.getElementsByClassName('report');
+    for (var i = 0; i < allElements.length; i++) {
+      var element = allElements[i];
+      if (element.id) {
+        monitoredElements.push({element: element, visible: false});
+      }
+    }
+    if (monitoredElements.length > 0) {
+      window.addEventListener('resize', checkElements);
+      window.addEventListener('scroll', checkElements);
+      checkElements();
     }
   }
 
