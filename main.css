@@ -62,6 +62,7 @@ table.photos a i.material-icons {
   font-size: 10em;
   text-shadow: 0 0 0.1em black;
   visibility: hidden;
+  z-index: 1;
 }
 table.photos a:hover i.material-icons {
   visibility: visible;
