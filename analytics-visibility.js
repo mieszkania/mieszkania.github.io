@@ -16,7 +16,8 @@
       var wasVisible = monitor.visible;
       monitor.visible = isVisible(element);
       if (!wasVisible && monitor.visible) {
-        ga('send', 'event', 'Visibility', 'Visible', element.id, {
+        ga('send', 'event', 'Visibility', 'Visible', {
+          eventLabel: element.id,
           nonInteraction: !event,
         });
       }
