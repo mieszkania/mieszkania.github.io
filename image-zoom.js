@@ -1,5 +1,6 @@
 (function(){
   var img = document.createElement('img');
+  img.sizes = '(max-aspect-ratio: 1/1) 90vh 90vw'
   img.style.position = 'absolute';
   img.style.margin = 'auto';
   img.style.maxWidth = '90%';
@@ -26,16 +27,17 @@
   }
 
   function open(image) {
-    img.src = image;
+    img.srcset = image.srcset;
+    img.src = image.src;
     setTimeout(function() {
       div.addEventListener('click', close);
       document.body.appendChild(div);
     }, 150);
-    ga('send', 'event', 'Image', 'Open', image.split('/').pop());
+    ga('send', 'event', 'Image', 'Open', image.src.split('/').pop());
   }
 
   window.zoom = function(element) {
-    open(element.href || element.src);
+    open(element.getElementsByTagName('img')[0]);
     return false;
   };
 })();
