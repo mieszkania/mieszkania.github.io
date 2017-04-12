@@ -4,12 +4,12 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{{include.page.title}}</title>
-<link rel="stylesheet" href="{{ "/main.css" | absolute_url }}">
+<link rel="stylesheet" href="{{ "/main.css" | relative_url }}">
 <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
-<script src="../../../analytics-core.js"></script>
-<script src="../../../analytics-visibility.js"></script>
-<script async src="../../../analytics-heartbeat.js"></script>
-<script async src="../../../image-zoom.js"></script>
+<script src="{{ "/analytics-core.js" | relative_url }}"></script>
+<script src="{{ "/analytics-visibility.js" | relative_url }}"></script>
+<script async src="{{ "/analytics-heartbeat.js" | relative_url }}"></script>
+<script async src="{{ "/image-zoom.js" | relative_url }}"></script>
 <script async src="https://www.google-analytics.com/analytics.js"></script>
 </head>
 <body>
