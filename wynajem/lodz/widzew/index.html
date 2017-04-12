@@ -1,19 +1,8 @@
-<!DOCTYPE html>
-<html lang="pl">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Mieszkanie do wynajęcia - Łódź Widzew, Haška 10</title>
-<link rel="stylesheet" href="../../../main.css">
-<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
-<script src="../../../analytics-core.js"></script>
-<script src="../../../analytics-visibility.js"></script>
-<script async src="../../../analytics-heartbeat.js"></script>
-<script async src="../../../image-zoom.js"></script>
-<script async src="https://www.google-analytics.com/analytics.js"></script>
-</head>
-<body>
-<div class="content">
+---
+lang: "pl"
+title: "Mieszkanie do wynajęcia - Łódź Widzew, Haška 10"
+---
+{% capture body %}
 <h1>Mieszkanie do wynajęcia</h1>
 <h2>Łódź Widzew, Haška 10</h2>
 <p>Ostatnia aktualizacja: 8 kwietnia 2017</p>
@@ -302,6 +291,4 @@
     </td>
   </tr>
 </table>
-</div>
-</body>
-</html>
+{% endcapture %}{% include page.html page=page body=body %}
