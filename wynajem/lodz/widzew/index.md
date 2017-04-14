@@ -108,8 +108,8 @@ Poniższe odległości to rzeczywiste odległości przejścia lub przejazdu:
 
 ### Opłaty
 * Odstępne: **1700 zł / mc**
-* Opłaty stałe: 300 zł / mc (**w tym gaz**)
-* Centralne ogrzewanie: około 65 zł / mc
+* Opłaty stałe: 250 zł / mc (**w tym gaz**)
+* Centralne ogrzewanie: około 75 zł / mc
 * Media **wg liczników**: prąd, woda
 * Odpady komunalne
 {: .report #oplaty-txt}
