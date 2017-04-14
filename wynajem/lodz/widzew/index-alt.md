@@ -53,13 +53,13 @@ resolutions:
 ## Łódź Widzew, Haška 10
 Ostatnia aktualizacja: 8 kwietnia 2017
 
-Wynajmę <b>3-pokojowe</b> mieszkanie z kuchnią o
-powierzchni <b>61,6 m<sup>2</sup></b>, położone <b>na osiedlu im. Stefana
-Batorego (Widzew Wschód)</b>, niedaleko <b>parku Widzewska Górka</b>.
-Mieszkanie znajduje się na <b>drugim piętrze</b> czteropiętrowego bloku przy
-ulicy <b>Haška 10</b>. Mieszkanie jest w doskonałym stanie, <b>w pełni
-umeblowane i wyposażone</b>, gotowe do zamieszkania i dostępne od zaraz.
-Parking pod blokiem, telewizja kablowa, domofon. <b>1700 zł / mc</b>.
+Wynajmę **3-pokojowe** mieszkanie z kuchnią o
+powierzchni **61,6 m<sup>2</sup>**, położone **na osiedlu im. Stefana
+Batorego (Widzew Wschód)**, niedaleko **parku Widzewska Górka**.
+Mieszkanie znajduje się na **drugim piętrze** czteropiętrowego bloku przy
+ulicy **Haška 10**. Mieszkanie jest w doskonałym stanie, **w pełni
+umeblowane i wyposażone**, gotowe do zamieszkania i dostępne od zaraz.
+Parking pod blokiem, telewizja kablowa, domofon. **1700 zł / mc**.
 {: .report #skrot}
 
 <iframe class="gmap" src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJWYdw7qzMG0cR1EDZvZ-BzRc&key=AIzaSyBawQgY87ZUOa4Qw1lohNAUKpmHt0gxkVs"></iframe>
@@ -68,15 +68,15 @@ Parking pod blokiem, telewizja kablowa, domofon. <b>1700 zł / mc</b>.
 * 3 pokoje z osobną kuchnią, łazienką, WC i pomieszczeniem gospodarczym,
     61,6 m<sup>2</sup>
 * drugie piętro (z czterech) w bloku z lat 70-tych
-* <b>w doskonałym stanie</b>
-* <b>pełne wyposażenie kuchni</b> (kuchenka gazowa, zmywarka, lodówka,
+* **w doskonałym stanie**
+* **pełne wyposażenie kuchni** (kuchenka gazowa, zmywarka, lodówka,
     mikrofalówka, naczynia i sztućce)
-* <b>pełne wyposażenie łazienki</b> (wanna z prysznicem, pralka, umywalka)
+* **pełne wyposażenie łazienki** (wanna z prysznicem, pralka, umywalka)
     i WC (toaleta z umywalką)
-* <b>w pełni umeblowane pokoje</b> (kino domowe, fotele, stoły, wersalki,
+* **w pełni umeblowane pokoje** (kino domowe, fotele, stoły, wersalki,
     szafy, regały, dywany, zasłony)
-* <b>szafy przesuwne</b>, pomieszczenie gospodarcze
-* <b>sprzęt RTV, Hi-Fi, IT</b> (dwa telewizory, kino domowe z BluRay,
+* **szafy przesuwne**, pomieszczenie gospodarcze
+* **sprzęt RTV, Hi-Fi, IT** (dwa telewizory, kino domowe z BluRay,
     akcesoria komputerowe, telefon bezprzewodowy)
 * instalacja telefoniczna i telewizji kablowej, można łatwo zamówić
     Internet
@@ -88,17 +88,17 @@ Parking pod blokiem, telewizja kablowa, domofon. <b>1700 zł / mc</b>.
 Poniższe odległości to rzeczywiste odległości przejścia lub przejazdu:
 
 * komunikacja publiczna
-  * <b>350 m do przystanku tramwajowego</b> (linie 3, 8, 13)
+  * **350 m do przystanku tramwajowego** (linie 3, 8, 13)
   * 2 km (lub 3 przystanki tramwajowe) do stacji Łódź Widzew
 * zakupy
-  * <b>150 m do sklepu spożywczego</b> (Intermarché)
+  * **150 m do sklepu spożywczego** (Intermarché)
   * 300 m do Biedronki
   * 600 m do Kauflandu
   * 700 m do Tesco i Domu Handlowego Batory
   * 4 km do centrum handlowego Tulipan (Real, Castorama)
 * zdrowie i rekreacja
   * 150 m do apteki
-  * <b>200 m do parku Górka Widzewska</b>
+  * **200 m do parku Górka Widzewska**
   * 650 m do centrum fitness
   * 650 m do przychodni
 * dzieci i nauka
@@ -109,10 +109,10 @@ Poniższe odległości to rzeczywiste odległości przejścia lub przejazdu:
 {: .report #okolica}
 
 ### Opłaty
-* Odstępne: <b>1700 zł / mc</b>
-* Opłaty stałe: 300 zł / mc (<b>w tym gaz</b>)
+* Odstępne: **1700 zł / mc**
+* Opłaty stałe: 300 zł / mc (**w tym gaz**)
 * Centralne ogrzewanie: około 65 zł / mc
-* Media <b>wg liczników</b>: prąd, woda
+* Media **wg liczników**: prąd, woda
 * Odpady komunalne
 {: .report #oplaty}
 
@@ -125,7 +125,7 @@ Poniższe odległości to rzeczywiste odległości przejścia lub przejazdu:
 {: .report #warunki}
 
 ### Kontakt
-* Telefon: <b>609 794 959</b>
+* Telefon: **609 794 959**
 {: .report #kontakt}
 
 <table class="photos report" id="zdjecia">
