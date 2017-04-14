@@ -54,7 +54,7 @@ resolutions:
 Ostatnia aktualizacja: 8 kwietnia 2017
 
 Wynajmę **3-pokojowe** mieszkanie z kuchnią o
-powierzchni **61,6 m<sup>2</sup>**, położone **na osiedlu im. Stefana
+powierzchni **61,6 m²**, położone **na osiedlu im. Stefana
 Batorego (Widzew Wschód)**, niedaleko **parku Widzewska Górka**.
 Mieszkanie znajduje się na **drugim piętrze** czteropiętrowego bloku przy
 ulicy **Haška 10**. Mieszkanie jest w doskonałym stanie, **w pełni
@@ -66,7 +66,7 @@ Parking pod blokiem, telewizja kablowa, domofon. **1700 zł / mc**.
 
 ### Mieszkanie
 * 3 pokoje z osobną kuchnią, łazienką, WC i pomieszczeniem gospodarczym,
-    61,6 m<sup>2</sup>
+    61,6 m²
 * drugie piętro (z czterech) w bloku z lat 70-tych
 * **w doskonałym stanie**
 * **pełne wyposażenie kuchni** (kuchenka gazowa, zmywarka, lodówka,
