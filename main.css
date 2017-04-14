@@ -30,22 +30,22 @@ table.photos {
 table.photos td {
   border: solid 1em white;
 }
-table.photos td:first-child {
+table.photos td.col1 {
   border-left: none;
 }
-table.photos td:last-child {
+table.photos td.col2 {
   border-right: none;
 }
 table.photos a {
   position: relative;
   display: block;
 }
-table.photos div.square {
+table.photos div.portrait {
   position: relative;
   height: 0;
   padding-bottom: 100%;
 }
-table.photos div.square a {
+table.photos div.portrait a {
   position: absolute;
   height: 100%;
   width: 100%;

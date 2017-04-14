@@ -1,0 +1,13 @@
+{% capture img %}
+{% assign srcset = "" | split: "," %}
+{% if include.resolutions %}
+  {% for res in include.resolutions %}
+    {% capture srcelem %}{{res}}/{{include.src}} {{res}}w{% endcapture %}
+    {% assign srcset = srcset | push: srcelem %}
+  {% endfor %}
+{% endif %}
+<img src="{{include.default}}/{{include.src}}"
+  {% if include.alt %}alt="{{include.alt}}"{% endif %}
+  {% if include.sizes %}sizes="{{include.sizes}}"{% endif %}
+  {% if srcset %}srcset="{{srcset | join: ", "}}"{% endif %}>
+{% endcapture %}{{img | normalize_whitespace}}
