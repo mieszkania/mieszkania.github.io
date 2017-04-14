@@ -51,35 +51,32 @@ resolutions:
 {::options auto_ids="false" /}
 # Mieszkanie do wynajęcia
 ## Łódź Widzew, Haška 10
-Ostatnia aktualizacja: 8 kwietnia 2017
+Ostatnia aktualizacja: 15 kwietnia 2017
 
-Wynajmę **3-pokojowe** mieszkanie z kuchnią o
-powierzchni **61,6 m²**, położone **na osiedlu im. Stefana
-Batorego (Widzew Wschód)**, niedaleko **parku Widzewska Górka**.
-Mieszkanie znajduje się na **drugim piętrze** czteropiętrowego bloku przy
-ulicy **Haška 10**. Mieszkanie jest w doskonałym stanie, **w pełni
-umeblowane i wyposażone**, gotowe do zamieszkania i dostępne od zaraz.
-Parking pod blokiem, telewizja kablowa, domofon. **1700 zł / mc**.
+Wynajmę **3-pokojowe** mieszkanie z kuchnią o powierzchni **61,6 m²**, położone
+**na osiedlu im. Stefana Batorego (Widzew Wschód)**, niedaleko **parku Widzewska
+Górka**. Mieszkanie znajduje się na **drugim piętrze** czteropiętrowego bloku
+przy ulicy **Haška 10**. Mieszkanie jest w doskonałym stanie, **w pełni
+umeblowane i wyposażone**, gotowe do zamieszkania i dostępne od zaraz. Parking
+pod blokiem, telewizja kablowa, domofon. **1700 zł / mc**.
 {: .report #skrot}
 
 <iframe class="gmap" src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJWYdw7qzMG0cR1EDZvZ-BzRc&key=AIzaSyBawQgY87ZUOa4Qw1lohNAUKpmHt0gxkVs"></iframe>
 
 ### Mieszkanie
-* 3 pokoje z osobną kuchnią, łazienką, WC i pomieszczeniem gospodarczym,
-    61,6 m²
+* 3 pokoje z osobną kuchnią, łazienką, WC i pomieszczeniem gospodarczym, 61,6 m²
 * drugie piętro (z czterech) w bloku z lat 70-tych
 * **w doskonałym stanie**
 * **pełne wyposażenie kuchni** (kuchenka gazowa, zmywarka, lodówka,
-    mikrofalówka, naczynia i sztućce)
+  mikrofalówka, naczynia i sztućce)
 * **pełne wyposażenie łazienki** (wanna z prysznicem, pralka, umywalka)
-    i WC (toaleta z umywalką)
-* **w pełni umeblowane pokoje** (kino domowe, fotele, stoły, wersalki,
-    szafy, regały, dywany, zasłony)
+  i WC (toaleta z umywalką)
+* **w pełni umeblowane pokoje** (kino domowe, fotele, stoły, wersalki, szafy,
+  regały, dywany, zasłony)
 * **szafy przesuwne**, pomieszczenie gospodarcze
-* **sprzęt RTV, Hi-Fi, IT** (dwa telewizory, kino domowe z BluRay,
-    akcesoria komputerowe, telefon bezprzewodowy)
-* instalacja telefoniczna i telewizji kablowej, można łatwo zamówić
-    Internet
+* **sprzęt RTV, Hi-Fi, IT** (dwa telewizory, kino domowe z BluRay, akcesoria
+  komputerowe, telefon bezprzewodowy)
+* instalacja telefoniczna i telewizji kablowej, można łatwo zamówić Internet
 * przynależna komórka w piwnicy, domofon
 * balkon z widokiem na obszar zieleni i panoramę miasta
 {: .report #mieszkanie}
@@ -102,8 +99,7 @@ Poniższe odległości to rzeczywiste odległości przejścia lub przejazdu:
   * 650 m do centrum fitness
   * 650 m do przychodni
 * dzieci i nauka
-  * 300 m do przedszkola, Gimnazjum nr 35 i XLVII Liceum
-      Ogólnokształcącego
+  * 300 m do przedszkola, Gimnazjum nr 35 i XLVII Liceum Ogólnokształcącego
   * 450 m do Szkoły Podstawowej im. Tuwima
   * 600 m do żłobka
 {: .report #okolica}
@@ -121,7 +117,7 @@ Poniższe odległości to rzeczywiste odległości przejścia lub przejazdu:
 * Umowa na 3 lata z automatycznym przedłużeniem lub do uzgodnienia
 * Kaucja: 2500 zł
 * Zezwolenie na sprawdzenie danych w Biurze Informacji Kredytowej i Biurach
-    Informacji Gospodarczej
+  Informacji Gospodarczej
 {: .report #warunki}
 
 ### Kontakt
