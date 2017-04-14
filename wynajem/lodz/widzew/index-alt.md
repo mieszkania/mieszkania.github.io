@@ -124,15 +124,5 @@ Poniższe odległości to rzeczywiste odległości przejścia lub przejazdu:
 * Telefon: **609 794 959**
 {: .report #kontakt}
 
-<table class="photos report" id="zdjecia">
-{% tablerow image in page.images cols:2 %}
-  <div class="{% if image.portrait %}portrait{% else %}landscape{% endif %}">
-    <a href="{{page.resolutions[0]}}/{{image.src}}" onclick="return zoom(this)">
-      <i class="material-icons">zoom_in</i>
-      {% include multires-img.html src=image.src alt=image.alt
-         sizes="(max-width: 48em) 50vw, 24em" resolutions=page.resolutions
-         default="800" %}
-    </a>
-  </div>
-{% endtablerow %}
-</table>
+{% include gallery.html images=page.images resolutions=page.resolutions
+%}{: .report #zdjecia}

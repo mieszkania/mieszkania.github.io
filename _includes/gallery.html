@@ -1,0 +1,11 @@
+<table class="photos">
+{% tablerow image in include.images cols:2 %}
+  <div class="{% if image.portrait %}portrait{% else %}landscape{% endif %}">
+    <a href="{{include.resolutions[0]}}/{{image.src}}"
+       onclick="return zoom(this)">
+      <i class="material-icons">zoom_in</i>
+      {% include multires-img.html src=image.src alt=image.alt
+         sizes="(max-width: 48em) 50vw, 24em" resolutions=include.resolutions
+         default="800" %}    </a>
+  </div>
+{% endtablerow %}</table>
