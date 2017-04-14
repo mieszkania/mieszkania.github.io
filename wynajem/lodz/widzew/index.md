@@ -67,40 +67,40 @@ pod blokiem, telewizja kablowa, domofon. **1700 zł / mc**.
 
 ### Mieszkanie
 * 3 pokoje z osobną kuchnią, łazienką, WC i pomieszczeniem gospodarczym, 61,6 m²
-* drugie piętro (z czterech) w bloku z lat 70-tych
-* **w doskonałym stanie**
-* **pełne wyposażenie kuchni** (kuchenka gazowa, zmywarka, lodówka,
+* Drugie piętro (z czterech) w bloku z lat 70-tych
+* **W doskonałym stanie**
+* **Pełne wyposażenie kuchni** (kuchenka gazowa, zmywarka, lodówka,
   mikrofalówka, naczynia i sztućce)
-* **pełne wyposażenie łazienki** (wanna z prysznicem, pralka, umywalka)
+* **Pełne wyposażenie łazienki** (wanna z prysznicem, pralka, umywalka)
   i WC (toaleta z umywalką)
-* **w pełni umeblowane pokoje** (kino domowe, fotele, stoły, wersalki, szafy,
+* **W pełni umeblowane pokoje** (kino domowe, fotele, stoły, wersalki, szafy,
   regały, dywany, zasłony)
-* **szafy przesuwne**, pomieszczenie gospodarcze
-* **sprzęt RTV, Hi-Fi, IT** (dwa telewizory, kino domowe z BluRay, akcesoria
+* **Szafy przesuwne**, pomieszczenie gospodarcze
+* **Sprzęt RTV, Hi-Fi, IT** (dwa telewizory, kino domowe z BluRay, akcesoria
   komputerowe, telefon bezprzewodowy)
-* instalacja telefoniczna i telewizji kablowej, można łatwo zamówić Internet
-* przynależna komórka w piwnicy, domofon
-* balkon z widokiem na obszar zieleni i panoramę miasta
+* Instalacja telefoniczna i telewizji kablowej, można łatwo zamówić Internet
+* Przynależna komórka w piwnicy, domofon
+* Balkon z widokiem na obszar zieleni i panoramę miasta
 {: .report #mieszkanie-txt}
 
 ### Okolica
 Poniższe odległości to rzeczywiste odległości przejścia lub przejazdu:
 
-* komunikacja publiczna
+* Komunikacja publiczna
   * **350 m do przystanku tramwajowego** (linie 3, 8, 13)
   * 2 km (lub 3 przystanki tramwajowe) do stacji Łódź Widzew
-* zakupy
+* Zakupy
   * **150 m do sklepu spożywczego** (Intermarché)
   * 300 m do Biedronki
   * 600 m do Kauflandu
   * 700 m do Tesco i Domu Handlowego Batory
   * 4 km do centrum handlowego Tulipan (Real, Castorama)
-* zdrowie i rekreacja
+* Zdrowie i rekreacja
   * 150 m do apteki
   * **200 m do parku Górka Widzewska**
   * 650 m do centrum fitness
   * 650 m do przychodni
-* dzieci i nauka
+* Dzieci i nauka
   * 300 m do przedszkola, Gimnazjum nr 35 i XLVII Liceum Ogólnokształcącego
   * 450 m do Szkoły Podstawowej im. Tuwima
   * 600 m do żłobka
@@ -117,6 +117,7 @@ Poniższe odległości to rzeczywiste odległości przejścia lub przejazdu:
 ### Warunki
 * Mieszkanie dostępne od zaraz
 * Umowa na 3 lata z automatycznym przedłużeniem lub do uzgodnienia
+* Dla osób niepalących, bez zwierząt domowych
 * Kaucja: 2500 zł
 * Zezwolenie na sprawdzenie danych w Biurze Informacji Kredytowej i Biurach
   Informacji Gospodarczej
