@@ -6,7 +6,8 @@
 <title>{{include.page.title}}</title>
 <link rel="stylesheet" href="{{"/main.css" | relative_url}}">
 <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
-<script src="{{"/analytics-core.js" | relative_url}}"></script>
+<script>
+{% include analytics.js %}</script>
 <script async src="{{"/analytics-heartbeat.js" | relative_url}}"></script>
 <script defer src="{{"/analytics-visibility.js" | relative_url}}"></script>
 <script async src="{{"/image-zoom.js" | relative_url}}"></script>
