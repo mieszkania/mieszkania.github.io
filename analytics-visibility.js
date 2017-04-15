@@ -39,5 +39,5 @@
     }
   }
 
-  window.addEventListener('DOMContentLoaded', findElements);
+  document.addEventListener('DOMContentLoaded', findElements);
 })();
