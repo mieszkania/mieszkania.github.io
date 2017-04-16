@@ -29,10 +29,8 @@
   function open(image) {
     img.srcset = image.srcset;
     img.src = image.src;
-    setTimeout(function() {
-      div.addEventListener('click', close);
-      document.body.appendChild(div);
-    }, 150);
+    div.addEventListener('click', close);
+    document.body.appendChild(div);
     ga('send', 'event', 'Image', 'Open', image.src.split('/').pop());
   }
 
