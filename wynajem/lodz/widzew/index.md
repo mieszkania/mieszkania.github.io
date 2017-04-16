@@ -52,14 +52,16 @@ resolutions:
 {: #ogloszenie}
 ## Łódź Widzew, Haška 10
 {: #adres}
-Ostatnia aktualizacja: 15 kwietnia 2017
+Stan: <span class="green">**wolne**</span>
+(ostatnia aktualizacja: 16 kwietnia 2017)
 
 Wynajmę **3-pokojowe** mieszkanie z kuchnią o powierzchni **61,6 m²**, położone
 **na osiedlu im. Stefana Batorego (Widzew Wschód)**, niedaleko **parku Widzewska
 Górka**. Mieszkanie znajduje się na **drugim piętrze** czteropiętrowego bloku
 przy ulicy **Haška 10**. Mieszkanie jest w doskonałym stanie, **w pełni
 umeblowane i wyposażone**, gotowe do zamieszkania i dostępne od zaraz. Parking
-pod blokiem, telewizja kablowa, domofon. **1700 zł / mc**.
+pod blokiem, telewizja kablowa, domofon. Bezpośrednio od właściciela,
+**1700 zł / mc**.
 {: .report #ogloszenie-txt}
 
 <iframe class="gmap" src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJWYdw7qzMG0cR1EDZvZ-BzRc&key=AIzaSyBawQgY87ZUOa4Qw1lohNAUKpmHt0gxkVs"></iframe>
@@ -125,6 +127,7 @@ Poniższe odległości to rzeczywiste odległości przejścia lub przejazdu:
 
 ### Kontakt
 * Telefon: **609 794 959**
+* Bez pośredników
 {: .report #kontakt-txt}
 
 {% include gallery.html images=page.images resolutions=page.resolutions
