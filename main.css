@@ -67,9 +67,12 @@ table.photos a i.material-icons {
   visibility: hidden;
   z-index: 1;
 }
-@media not all and (hover: none) {
+table.photos a:hover i.material-icons {
+  visibility: visible;
+}
+@media (hover: none), (hover: on-demand) {
   table.photos a:hover i.material-icons {
-    visibility: visible;
+    visibility: hidden;
   }
 }
 table.photos img {
