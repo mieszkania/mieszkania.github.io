@@ -6,6 +6,7 @@ description: Wynajmę 3-pokojowe mieszkanie o powierzchni 61,6 m², na 2. piętr
   4-piętrowego bloku przy ulicy Haška 10 w Łodzi (Widzew). Mieszkanie jest w
   pełni umeblowane i wyposażone. Zdjęcia wysokiej jakości. Bezpośrednio od
   właściciela.
+google-site-verification: PpWhLq-MbDLowjNE06x_t6tNHytzef3k1JWsygF-NZM
 images:
  - src: salon1.jpg
    alt: "Salon"

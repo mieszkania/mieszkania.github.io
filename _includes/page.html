@@ -8,7 +8,8 @@
 <link rel="stylesheet" href="{{"/main.css" | relative_url}}">
 <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
 <script>
-{% include analytics.js %}</script>
+{% include analytics.js %}</script>{% if include.page.google-site-verification %}
+<meta name="google-site-verification" content="{{include.page.google-site-verification}}">{% endif %}
 <script async src="{{"/analytics-heartbeat.js" | relative_url}}"></script>
 <script defer src="{{"/analytics-visibility.js" | relative_url}}"></script>
 <script async src="{{"/image-zoom.js" | relative_url}}"></script>
