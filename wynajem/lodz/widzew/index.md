@@ -2,6 +2,10 @@
 layout: page
 lang: pl
 title: Mieszkanie do wynajęcia - Łódź Widzew, Haška 10
+description: Wynajmę 3-pokojowe mieszkanie o powierzchni 61,6 m², na 2. piętrze
+  4-piętrowego bloku przy ulicy Haška 10 w Łodzi (Widzew). Mieszkanie jest w
+  pełni umeblowane i wyposażone. Zdjęcia wysokiej jakości. Bezpośrednio od
+  właściciela.
 images:
  - src: salon1.jpg
    alt: "Salon"
@@ -53,14 +57,15 @@ resolutions:
 ## Łódź Widzew, Haška 10
 {: #adres}
 Stan: <span class="green">**wolne**</span>
-(ostatnia aktualizacja: 16 kwietnia 2017)
+(ostatnia aktualizacja: 17 kwietnia 2017)
 
 Wynajmę **3-pokojowe** mieszkanie z kuchnią o powierzchni **61,6 m²**, położone
 **na osiedlu im. Stefana Batorego (Widzew Wschód)**, niedaleko **parku Widzewska
-Górka**. Mieszkanie znajduje się na **drugim piętrze** czteropiętrowego bloku
-przy ulicy **Haška 10**. Mieszkanie jest w doskonałym stanie, **w pełni
-umeblowane i wyposażone**, gotowe do zamieszkania i dostępne od zaraz. Parking
-pod blokiem, telewizja kablowa, domofon. Bezpośrednio od właściciela,
+Górka**. Mieszkanie znajduje się na **2. piętrze** 4-piętrowego bloku przy ulicy
+**Haška 10**. Mieszkanie jest w doskonałym stanie, **w pełni umeblowane i
+wyposażone**, gotowe do zamieszkania i dostępne od zaraz. Osobne WC i
+pomieszczenie gospodarcze. Telewizja kablowa i kino domowe. Parking pod blokiem.
+Balkon z widokiem na panoramę miasta. Bezpośrednio od właściciela.
 **1700 zł / mc**.
 {: .report #ogloszenie-txt}
 
@@ -70,18 +75,18 @@ pod blokiem, telewizja kablowa, domofon. Bezpośrednio od właściciela,
 ### Mieszkanie
 * 3 pokoje z osobną kuchnią, łazienką, WC i pomieszczeniem gospodarczym, 61,6 m²
 * Drugie piętro (z czterech) w bloku z lat 70-tych
-* **W doskonałym stanie**
+* **W doskonałym stanie**, pokoje i kuchnia niedawno remontowane.
 * **Pełne wyposażenie kuchni** (kuchenka gazowa, zmywarka, lodówka,
   mikrofalówka, naczynia i sztućce)
 * **Pełne wyposażenie łazienki** (wanna z prysznicem, pralka, umywalka)
   i WC (toaleta z umywalką)
 * **W pełni umeblowane pokoje** (kino domowe, fotele, stoły, wersalki, szafy,
   regały, dywany, zasłony)
-* **Szafy przesuwne**, pomieszczenie gospodarcze
+* **Szafy przesuwne**, dodatkowe pomieszczenie gospodarcze
 * **Sprzęt RTV, Hi-Fi, IT** (dwa telewizory, kino domowe z BluRay, akcesoria
   komputerowe, telefon bezprzewodowy)
 * Instalacja telefoniczna i telewizji kablowej, można łatwo zamówić Internet
-* Przynależna komórka w piwnicy, domofon
+* Przynależna komórka w piwnicy, domofon przy wejściu
 * Balkon z widokiem na obszar zieleni i panoramę miasta
 {: .report #mieszkanie-txt}
 
@@ -118,7 +123,7 @@ Poniższe odległości to rzeczywiste odległości przejścia lub przejazdu:
 
 ### Warunki
 * Mieszkanie dostępne od zaraz
-* Umowa na 3 lata z automatycznym przedłużeniem lub do uzgodnienia
+* Umowa na rok z automatycznym przedłużeniem lub do uzgodnienia
 * Dla osób niepalących, bez zwierząt domowych
 * Kaucja: 2500 zł
 * Zezwolenie na sprawdzenie danych w Biurze Informacji Kredytowej i Biurach
