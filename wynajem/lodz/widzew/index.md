@@ -123,7 +123,7 @@ Poniższe odległości to rzeczywiste odległości przejścia lub przejazdu:
 
 ### Warunki
 * Mieszkanie dostępne od zaraz
-* Umowa na rok z automatycznym przedłużeniem lub do uzgodnienia
+* Umowa na rok z automatycznym przedłużeniem lub **do uzgodnienia**
 * Dla osób niepalących, bez zwierząt domowych
 * Kaucja: 2500 zł
 * Zezwolenie na sprawdzenie danych w Biurze Informacji Kredytowej i Biurach
