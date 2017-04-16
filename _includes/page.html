@@ -2,8 +2,9 @@
 <html{% if include.page.lang %} lang="{{include.page.lang}}"{% endif %}>
 <head>
 <meta charset="UTF-8">
+<title>{{include.page.title}}</title>{% if include.page.description %}
+<meta name="description" content="{{include.page.description}}">{% endif %}
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>{{include.page.title}}</title>
 <link rel="stylesheet" href="{{"/main.css" | relative_url}}">
 <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
 <script>
