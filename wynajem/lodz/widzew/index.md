@@ -62,12 +62,12 @@ Stan: <span class="green">**wolne**</span>
 
 Wynajmę **3-pokojowe** mieszkanie z kuchnią o powierzchni **61,6 m²**, położone
 **na osiedlu im. Stefana Batorego (Widzew Wschód)**, niedaleko **parku Widzewska
-Górka**. Mieszkanie znajduje się na **2. piętrze** 4-piętrowego bloku przy ulicy
+Górka**. Mieszkanie znajduje się **na 2. piętrze** 4-piętrowego bloku przy ulicy
 **Haška 10**. Mieszkanie jest w doskonałym stanie, **w pełni umeblowane i
 wyposażone**, gotowe do zamieszkania i dostępne od zaraz. Osobne WC i
 pomieszczenie gospodarcze. Telewizja kablowa i kino domowe. Parking pod blokiem.
 Balkon z widokiem na panoramę miasta. Bezpośrednio od właściciela.
-**1700 zł / mc**.
+**1700 zł / mc** + koszty eksploatacji.
 {: .report #ogloszenie-txt}
 
 <iframe class="gmap" src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJWYdw7qzMG0cR1EDZvZ-BzRc&key=AIzaSyBawQgY87ZUOa4Qw1lohNAUKpmHt0gxkVs"></iframe>
