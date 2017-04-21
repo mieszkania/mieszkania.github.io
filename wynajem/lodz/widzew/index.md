@@ -70,10 +70,14 @@ Balkon z widokiem na panoramę miasta. Bezpośrednio od właściciela.
 **1700 zł / mc** + koszty eksploatacji. Telefon: **609 794 959**
 {: .report-visibility #ogloszenie-txt}
 
-Skocz do: <a href="#lokalizacja">Lokalizacja</a> \|
-<a href="#mieszkanie">Mieszkanie</a> | <a href="#okolica">Okolica</a> |
-<a href="#oplaty">Opłaty</a> | <a href="#warunki">Warunki</a> |
-<a href="#kontakt">Kontakt</a> | <a href="#zdjecia">Zdjęcia</a>
+Skocz do:
+<a href="#lokalizacja">Lokalizacja</a>{: .report-clicks} |
+<a href="#mieszkanie">Mieszkanie</a>{: .report-clicks} |
+<a href="#okolica">Okolica</a>{: .report-clicks} |
+<a href="#oplaty">Opłaty</a>{: .report-clicks} |
+<a href="#warunki">Warunki</a>{: .report-clicks} |
+<a href="#kontakt">Kontakt</a>{: .report-clicks} |
+<a href="#zdjecia">Zdjęcia</a>{: .report-clicks}
 
 <iframe class="gmap" src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJWYdw7qzMG0cR1EDZvZ-BzRc&key=AIzaSyBawQgY87ZUOa4Qw1lohNAUKpmHt0gxkVs"></iframe>
 {: #lokalizacja}
