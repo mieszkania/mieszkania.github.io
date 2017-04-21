@@ -67,7 +67,7 @@ Górka**. Mieszkanie znajduje się **na 2. piętrze** 4-piętrowego bloku przy u
 wyposażone**, gotowe do zamieszkania i dostępne od zaraz. Niezależne WC i
 pomieszczenie gospodarcze. Telewizja kablowa i kino domowe. Parking pod blokiem.
 Balkon z widokiem na panoramę miasta. Bezpośrednio od właściciela.
-**1700 zł / mc** + koszty eksploatacji.
+**1700 zł / mc** + koszty eksploatacji. Telefon: **609 794 959**
 {: .report #ogloszenie-txt}
 
 <iframe class="gmap" src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJWYdw7qzMG0cR1EDZvZ-BzRc&key=AIzaSyBawQgY87ZUOa4Qw1lohNAUKpmHt0gxkVs"></iframe>
@@ -116,6 +116,7 @@ Poniższe odległości to rzeczywiste odległości przejścia lub przejazdu:
 {: .report #okolica-txt}
 
 ### Opłaty
+{: #oplaty}
 * Odstępne: **1700 zł / mc**
 * Opłaty stałe: 250 zł / mc (**w tym gaz**)
 * Centralne ogrzewanie: około 75 zł / mc
