@@ -25,7 +25,7 @@
   }
 
   function findElements() {
-    allElements = document.getElementsByClassName('report');
+    allElements = document.getElementsByClassName('report-visibility');
     for (var i = 0; i < allElements.length; i++) {
       var element = allElements[i];
       if (element.id) {

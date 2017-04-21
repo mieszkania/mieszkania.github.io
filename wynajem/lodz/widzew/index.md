@@ -68,7 +68,7 @@ wyposażone**, gotowe do zamieszkania i dostępne od zaraz. Niezależne WC i
 pomieszczenie gospodarcze. Telewizja kablowa i kino domowe. Parking pod blokiem.
 Balkon z widokiem na panoramę miasta. Bezpośrednio od właściciela.
 **1700 zł / mc** + koszty eksploatacji. Telefon: **609 794 959**
-{: .report #ogloszenie-txt}
+{: .report-visibility #ogloszenie-txt}
 
 Skocz do: <a href="#lokalizacja">Lokalizacja</a> \|
 <a href="#mieszkanie">Mieszkanie</a> | <a href="#okolica">Okolica</a> |
@@ -95,7 +95,7 @@ Skocz do: <a href="#lokalizacja">Lokalizacja</a> \|
 * Instalacja telefoniczna i telewizji kablowej, można łatwo zamówić Internet
 * Przynależna komórka w piwnicy, domofon przy wejściu
 * Balkon z widokiem na obszar zieleni i panoramę miasta
-{: .report #mieszkanie-txt}
+{: .report-visibility #mieszkanie-txt}
 
 ### Okolica
 Poniższe odległości to rzeczywiste odległości przejścia lub przejazdu:
@@ -118,7 +118,7 @@ Poniższe odległości to rzeczywiste odległości przejścia lub przejazdu:
   * 300 m do przedszkola, Gimnazjum nr 35 i XLVII Liceum Ogólnokształcącego
   * 450 m do Szkoły Podstawowej im. Tuwima
   * 600 m do żłobka
-{: .report #okolica-txt}
+{: .report-visibility #okolica-txt}
 
 ### Opłaty
 {: #oplaty}
@@ -127,7 +127,7 @@ Poniższe odległości to rzeczywiste odległości przejścia lub przejazdu:
 * Centralne ogrzewanie: około 75 zł / mc
 * Media **wg liczników**: prąd, woda
 * Odpady komunalne
-{: .report #oplaty-txt}
+{: .report-visibility #oplaty-txt}
 
 ### Warunki
 * Mieszkanie dostępne od zaraz
@@ -136,12 +136,12 @@ Poniższe odległości to rzeczywiste odległości przejścia lub przejazdu:
 * Kaucja: 2500 zł
 * Zezwolenie na sprawdzenie danych w Biurze Informacji Kredytowej i Biurach
   Informacji Gospodarczej
-{: .report #warunki-txt}
+{: .report-visibility #warunki-txt}
 
 ### Kontakt
 * Telefon: **609 794 959**
 * Bez pośredników
-{: .report #kontakt-txt}
+{: .report-visibility #kontakt-txt}
 
 {% include gallery.html images=page.images resolutions=page.resolutions
-%}{: .report #zdjecia}
+%}{: .report-visibility #zdjecia}
