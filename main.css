@@ -14,8 +14,14 @@ h1 {
 h2, h3 {
   color: forestgreen;
 }
+a {
+  color: forestgreen;
+}
+a:visited {
+  color: #040;
+}
 .green {
-  color: green;
+  color: forestgreen;
 }
 
 iframe.gmap {
