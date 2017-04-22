@@ -8,7 +8,9 @@ ga('create', 'UA-96975459-1', 'auto', {
 ga(function(tracker) {
   ga('set', 'dimension1', tracker.get('clientId'));
 });
-ga('send', 'pageview');
+ga('send', 'pageview', {
+  'page': location.pathname + location.search + location.hash,
+});
 window.addEventListener('error', function(event) {
   description = event.message + " @" + event.filename + ":" + event.lineno;
   ga('send', 'exception', {
