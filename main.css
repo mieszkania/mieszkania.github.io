@@ -26,7 +26,8 @@ a:visited {
 
 iframe.gmap {
   width: 98%;
-  height: 25em;
+  height: 24em;
+  max-height: 50vw;
   border: 1px solid lightgray;
   margin: 1em 0;
 }
