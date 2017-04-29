@@ -58,16 +58,18 @@ resolutions:
 ## Łódź Widzew, Haška 10
 {: #adres}
 Stan: <span class="green">**wolne**</span>
-(aktualizacja: 26 kwietnia 2017)
+(aktualizacja: 29 kwietnia 2017)
 
 Wynajmę **3-pokojowe** mieszkanie z kuchnią o powierzchni **61,6 m²**, położone
-**na osiedlu im. Stefana Batorego (Widzew Wschód)**, niedaleko **parku Widzewska
-Górka**. Mieszkanie znajduje się **na 2. piętrze** 4-piętrowego bloku przy ulicy
-**Haška 10**. Mieszkanie jest w doskonałym stanie, **w pełni umeblowane i
-wyposażone**, gotowe do zamieszkania i dostępne od zaraz. Niezależne WC i
-pomieszczenie gospodarcze. Telewizja kablowa i kino domowe. Parking pod blokiem.
-Balkon z widokiem na panoramę miasta. Bezpośrednio od właściciela.
-**1700 zł / mc** + koszty eksploatacji. Telefon: **609 794 959**
+**na osiedlu im. Stefana Batorego** w Łodzi (Widzew), niedaleko **parku
+Widzewska Górka**. Mieszkanie znajduje się **na 2. piętrze** 4-piętrowego bloku
+przy ulicy **Haška 10**. Doskonała lokalizacja na Widzewie, szybki dojazd do
+Śródmieścia. Mieszkanie jest w doskonałym stanie, **w pełni umeblowane i
+wyposażone**, gotowe do zamieszkania i dostępne od zaraz. **Niezależna kuchnia i
+WC**. Pomieszczenie gospodarcze w mieszkaniu i komórka lokatorska w piwnicy.
+Telewizja kablowa i kino domowe. Parking pod blokiem. Balkon z szerokim
+widokiem. Bezpośrednio od właściciela. **1700 zł / mc** + koszty eksploatacji.
+Telefon: **609 794 959**
 {: .report-visibility #ogloszenie-txt}
 
 Skocz do:
@@ -83,21 +85,22 @@ Skocz do:
 {: #lokalizacja}
 
 ### Mieszkanie
-* 3 pokoje z osobną jasną kuchnią, łazienką, WC i pomieszczeniem gospodarczym,
-  61,6 m²
+* **3 pokoje z osobną jasną kuchnią**, łazienką, WC i pomieszczeniem
+  gospodarczym, **61,6 m²**
 * Drugie piętro (z czterech) w bloku z lat 70-tych
-* **W doskonałym stanie**, pokoje i kuchnia niedawno remontowane.
+* W doskonałym stanie, pokoje i kuchnia niedawno remontowane.
 * **Pełne wyposażenie kuchni** (kuchenka gazowa, zmywarka, lodówka,
   mikrofalówka, naczynia i sztućce)
 * **Pełne wyposażenie łazienki** (wanna z prysznicem, pralka, umywalka)
   i WC (toaleta z umywalką)
 * **W pełni umeblowane pokoje** (kino domowe, fotele, stoły, wersalki, szafy,
   regały, dywany, zasłony)
-* **Szafy przesuwne**, dodatkowe pomieszczenie gospodarcze
+* Szafy przesuwne, dodatkowe pomieszczenie gospodarcze
 * **Sprzęt RTV, Hi-Fi, IT** (dwa telewizory, kino domowe z BluRay, akcesoria
   komputerowe, telefon bezprzewodowy)
 * Instalacja telefoniczna i telewizji kablowej, można łatwo zamówić Internet
 * Przynależna komórka w piwnicy, domofon przy wejściu
+* Miejsca parkingowe pod blokiem, parking strzeżony niedaleko
 * Balkon z widokiem na obszar zieleni i panoramę miasta
 {: .report-visibility #mieszkanie-txt}
 
@@ -105,7 +108,7 @@ Skocz do:
 Poniższe odległości to rzeczywiste odległości przejścia lub przejazdu:
 
 * Komunikacja publiczna
-  * **350 m do przystanku tramwajowego** (linie 3, 8, 13)
+  * **350 m do przystanku tramwajowego Rondo Sybiraków** (linie 3, 8, 13)
   * 2 km (lub 3 przystanki tramwajowe) do stacji Łódź Widzew
 * Zakupy
   * **150 m do sklepu spożywczego** (Intermarché)
@@ -135,7 +138,7 @@ Poniższe odległości to rzeczywiste odległości przejścia lub przejazdu:
 
 ### Warunki
 * Mieszkanie dostępne od zaraz
-* Umowa przynajmniej na rok, najchętniej dłuższa
+* Umowa przynajmniej na rok, najchętniej wynajem długoterminowy
 * Dla osób niepalących, bez zwierząt domowych
 * Kaucja: 2500 zł
 * Zezwolenie na sprawdzenie danych w Biurze Informacji Kredytowej i Biurach
@@ -144,7 +147,7 @@ Poniższe odległości to rzeczywiste odległości przejścia lub przejazdu:
 
 ### Kontakt
 * Telefon: **609 794 959**
-* Bez pośredników
+* Bez pośredników, wynajem bezpośredni
 {: .report-visibility #kontakt-txt}
 
 {% include gallery.html images=page.images resolutions=page.resolutions
