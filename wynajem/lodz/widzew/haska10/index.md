@@ -54,9 +54,9 @@ resolutions:
  - 360
 ---
 # Mieszkanie do wynajęcia
-{: #ogloszenie}
+{: #ogloszenie }
 ## Łódź Widzew, Haška 10
-{: #adres}
+{: #adres }
 Stan: <span class="green">**wolne**</span>
 (aktualizacja: 1 maja 2017)
 
@@ -70,7 +70,7 @@ WC**. Pomieszczenie gospodarcze w mieszkaniu i komórka lokatorska w piwnicy.
 Telewizja kablowa i kino domowe. Parking pod blokiem. Balkon z szerokim
 widokiem. Bezpośrednio od właściciela. **1700 zł / mc** + koszty eksploatacji.
 Telefon: **609 794 959**
-{: .report-visibility #ogloszenie-txt}
+{: #ogloszenie-txt data-timing="18320" }
 
 Skocz do:
 <a href="#lokalizacja">Lokalizacja</a>{: .report-clicks} |
@@ -82,7 +82,7 @@ Skocz do:
 <a href="#zdjecia">Zdjęcia</a>{: .report-clicks}
 
 <iframe class="gmap" src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJWYdw7qzMG0cR1EDZvZ-BzRc&key=AIzaSyBawQgY87ZUOa4Qw1lohNAUKpmHt0gxkVs"></iframe>
-{: #lokalizacja}
+{: #lokalizacja data-timing="20350" }
 
 ### Mieszkanie
 * **3 pokoje z osobną jasną kuchnią**, łazienką, WC i pomieszczeniem
@@ -102,7 +102,7 @@ Skocz do:
 * Przynależna komórka w piwnicy, domofon przy wejściu
 * Miejsca parkingowe pod blokiem, parking strzeżony niedaleko
 * Balkon z widokiem na obszar zieleni i panoramę miasta
-{: .report-visibility #mieszkanie-txt}
+{: #mieszkanie-txt data-timing="27110" }
 
 ### Okolica
 Poniższe odległości to rzeczywiste odległości przejścia lub przejazdu:
@@ -125,7 +125,7 @@ Poniższe odległości to rzeczywiste odległości przejścia lub przejazdu:
   * 300 m do przedszkola, Gimnazjum nr 35 i XLVII Liceum Ogólnokształcącego
   * 450 m do Szkoły Podstawowej im. Tuwima
   * 600 m do żłobka
-{: .report-visibility #okolica-txt}
+{: #okolica-txt data-timing="22280" }
 
 ### Opłaty
 {: #oplaty}
@@ -134,7 +134,7 @@ Poniższe odległości to rzeczywiste odległości przejścia lub przejazdu:
 * Centralne ogrzewanie: około 75 zł / mc
 * Media **wg liczników**: prąd, woda
 * Odpady komunalne
-{: .report-visibility #oplaty-txt}
+{: #oplaty-txt data-timing="7080" }
 
 ### Warunki
 * Mieszkanie dostępne od zaraz
@@ -143,12 +143,12 @@ Poniższe odległości to rzeczywiste odległości przejścia lub przejazdu:
 * Kaucja: 2500 zł
 * Zezwolenie na sprawdzenie danych w Biurze Informacji Kredytowej i Biurach
   Informacji Gospodarczej
-{: .report-visibility #warunki-txt}
+{: #warunki-txt data-timing="8910" }
 
 ### Kontakt
 * Telefon: **609 794 959**
 * Bez pośredników, wynajem bezpośredni
-{: .report-visibility #kontakt-txt}
+{: #kontakt-txt data-timing="3850" }
 
 {% include gallery.html images=page.images resolutions=page.resolutions
-%}{: .report-visibility #zdjecia}
+%}{: #zdjecia data-timing="110100" }
