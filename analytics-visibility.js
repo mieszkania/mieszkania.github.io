@@ -40,11 +40,13 @@
       return;
     }
     var monitor = monitoredElements[maxIndex];
-    ga('send', 'event', 'Visibility', 'Visible', {
-      eventLabel: monitor.element.id,
-      eventValue: Math.round(monitor.ms),
-      nonInteraction: !scrolled,
-    });
+    if (monitor.element.id) {
+      ga('send', 'event', 'Visibility', 'Visible', {
+        eventLabel: monitor.element.id,
+        eventValue: Math.round(monitor.ms),
+        nonInteraction: !scrolled,
+      });
+    }
     monitor.ms = 0;
   }
 
@@ -95,9 +97,7 @@
     var allElements = document.querySelectorAll('[data-timing]');
     for (var i = 0; i < allElements.length; i++) {
       var element = allElements[i];
-      if (element.id) {
-        monitoredElements.push({element: element, ms: 0});
-      }
+      monitoredElements.push({element: element, ms: 0});
     }
     if (monitoredElements.length > 0) {
       window.addEventListener('resize', checkElements);
