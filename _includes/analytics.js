@@ -8,7 +8,7 @@ ga('create', 'UA-96975459-1', 'auto', {
 });
 
 window.addEventListener('error', function(event) {
-  description = event.message + " @" + event.filename + ":" + event.lineno;
+  var description = event.message + " @" + event.filename + ":" + event.lineno;
   ga('send', 'exception', {
     'exDescription': description,
   });
@@ -18,7 +18,7 @@ window.qs = {};
 var queryString = location.search.substring(1);
 if (queryString) {
   var components = queryString.replace(/\+/g, ' ').split(/[&;]/g);
-  for (i = 0; i < components.length; i++) {
+  for (var i = 0; i < components.length; i++) {
     var keyval = components[i].split('=');
     qs[decodeURIComponent(keyval[0])] = decodeURIComponent(keyval[1] || '');
   }
