@@ -32,6 +32,8 @@ ga('set', 'dimension3', qs['utm_network']);
 ga('set', 'dimension4', qs['utm_placement']);
 ga('set', 'dimension5', qs['utm_position']);
 
+var page = location.pathname + location.hash;
+window.history.replaceState(null, null, page);
 ga('send', 'pageview', {
-  'page': location.pathname + location.search + location.hash,
+  'page': page,
 });
