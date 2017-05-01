@@ -1,7 +1,57 @@
 (function() {
-  var lastIntegration;
-  var totalArea;
   var monitoredElements = [];
+  var scrolled = false;
+  var lastIntegration;
+  var timedArea;
+  var reporter;
+
+  function integrate(interaction) {
+    var now = Date.now();
+    var elapsed = now - lastIntegration;
+    lastIntegration = now;
+    for (var i = 0; i < monitoredElements.length; i++) {
+      var monitor = monitoredElements[i];
+      if (monitor.area > 0) {
+        var fraction = monitor.area / timedArea;
+        var added = Math.min(elapsed * fraction, monitor.limit);
+        monitor.ms += added;
+        if (!interaction) {
+          monitor.limit -= added;
+        }
+      }
+    }
+  }
+
+  function report() {
+    integrate(false);
+    var maxMs = 0;
+    var maxIndex;
+    for (var i = 0; i < monitoredElements.length; i++) {
+      var monitor = monitoredElements[i];
+      if (monitor.ms > maxMs) {
+        maxMs = monitor.ms;
+        maxIndex = i;
+      }
+    }
+    if (maxMs == 0) {
+      clearInterval(reporter);
+      reporter = null;
+      scrolled = false;
+      return;
+    }
+    var monitor = monitoredElements[maxIndex];
+    ga('send', 'event', 'Visibility', 'Visible', {
+      eventLabel: monitor.element.id,
+      eventValue: Math.round(monitor.ms),
+      nonInteraction: !scrolled,
+    });
+    monitor.ms = 0;
+  }
+
+  function totalArea(element) {
+    var rect = element.getBoundingClientRect();
+    return rect.width * rect.height;
+  }
 
   function visibleArea(element) {
     if (document.hidden) {
@@ -19,25 +69,25 @@
     return x * y;
   }
 
-  function integrate() {
-    var now = Date.now();
-    var elapsed = now - lastIntegration;
-    lastIntegration = now;
-    for (var i = 0; i < monitoredElements.length; i++) {
-      var monitor = monitoredElements[i];
-      if (monitor.area > 0) {
-        monitor.ms += elapsed * monitor.area / totalArea;
-      }
-    }
-  }
-
   function checkElements(event) {
-    integrate();
-    totalArea = 0;
+    if (event && event.type == 'scroll') {
+      scrolled = true;
+    }
+    integrate(true);
+    timedArea = 0;
     for (var i = 0; i < monitoredElements.length; i++) {
       var monitor = monitoredElements[i];
       monitor.area = visibleArea(monitor.element);
-      totalArea += monitor.area;
+      if (monitor.area > 0) {
+        timedArea += monitor.area;
+        var fraction = monitor.area / totalArea(monitor.element);
+        monitor.limit = monitor.element.getAttribute('data-timing') * fraction;
+      } else {
+        monitor.limit = 0;
+      }
+    }
+    if (!reporter && timedArea > 0) {
+      reporter = setInterval(report, 1000);
     }
   }
 
@@ -58,6 +108,4 @@
   }
 
   document.addEventListener('DOMContentLoaded', findElements);
-
-  window.bla = monitoredElements;
 })();
