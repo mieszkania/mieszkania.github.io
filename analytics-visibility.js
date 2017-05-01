@@ -11,7 +11,7 @@
     lastIntegration = now;
     for (var i = 0; i < monitoredElements.length; i++) {
       var monitor = monitoredElements[i];
-      if (monitor.area > 0) {
+      if (monitor.area > 0 && monitor.limit > 0) {
         var fraction = monitor.area / timedArea;
         var added = Math.min(elapsed * fraction, monitor.limit);
         monitor.ms += added;
@@ -22,15 +22,33 @@
     }
   }
 
-  function report() {
+  function reportOne(monitor) {
+    if (monitor.element.id) {
+      var visible = monitor.area > 0;
+      ga('send', 'event', 'Visibility', visible ? 'Visible' : 'Invisible', {
+        eventLabel: monitor.element.id,
+        eventValue: Math.round(monitor.ms),
+        nonInteraction: !scrolled,
+      });
+    }
+    monitor.ms = 0;
+  }
+
+  function reportSome() {
     integrate(false);
     var maxMs = 0;
     var maxIndex;
     for (var i = 0; i < monitoredElements.length; i++) {
       var monitor = monitoredElements[i];
-      if (monitor.ms > maxMs) {
-        maxMs = monitor.ms;
-        maxIndex = i;
+      if (monitor.area > 0) {
+        if (monitor.ms > maxMs) {
+          maxMs = monitor.ms;
+          maxIndex = i;
+        }
+      } else {
+        if (monitor.ms > 0) {
+          reportOne(monitor);
+        }
       }
     }
     if (maxMs == 0) {
@@ -39,15 +57,7 @@
       scrolled = false;
       return;
     }
-    var monitor = monitoredElements[maxIndex];
-    if (monitor.element.id) {
-      ga('send', 'event', 'Visibility', 'Visible', {
-        eventLabel: monitor.element.id,
-        eventValue: Math.round(monitor.ms),
-        nonInteraction: !scrolled,
-      });
-    }
-    monitor.ms = 0;
+    reportOne(monitoredElements[maxIndex]);
   }
 
   function totalArea(element) {
@@ -89,7 +99,7 @@
       }
     }
     if (!reporter && timedArea > 0) {
-      reporter = setInterval(report, 1000);
+      reporter = setInterval(reportSome, 1000);
     }
   }
 
