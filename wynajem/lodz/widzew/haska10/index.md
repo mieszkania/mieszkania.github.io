@@ -58,18 +58,19 @@ resolutions:
 ## Łódź Widzew, Haška 10
 {: #adres }
 Stan: <span class="green">**wolne**</span>
-(aktualizacja: 1 maja 2017)
+(aktualizacja: 3 maja 2017)
 
-Wynajmę **3-pokojowe** mieszkanie z kuchnią o powierzchni **61,6 m²**, położone
-**na osiedlu im. Stefana Batorego** w Łodzi (Widzew), niedaleko **parku
-Widzewska Górka**. Mieszkanie znajduje się **na 2. piętrze** 4-piętrowego bloku
-przy ulicy **Haška 10**. Świetna lokalizacja na Widzewie, szybki dojazd do
-Śródmieścia. Mieszkanie jest w doskonałym stanie, **w pełni umeblowane i
-wyposażone**, gotowe do zamieszkania i dostępne od zaraz. **Niezależna kuchnia i
-WC**. Pomieszczenie gospodarcze w mieszkaniu i komórka lokatorska w piwnicy.
-Telewizja kablowa i kino domowe. Parking pod blokiem. Balkon z szerokim
-widokiem. Bezpośrednio od właściciela. **1700 zł / mc** + koszty eksploatacji.
-Telefon: **609 794 959**
+Wynajmę **3-pokojowe**{:.nobr} mieszkanie z kuchnią o powierzchni **61,6
+m²**{:.nobr}, położone na **osiedlu im. Stefana Batorego** w Łodzi (Widzew
+Wschód), niedaleko **parku Widzewska Górka**. Mieszkanie znajduje się na **2.
+piętrze**{:.nobr} <span>4-piętrowego</span>{:.nobr} bloku przy ulicy **Haška
+10**{:.nobr}. Świetna lokalizacja na Widzewie, szybki dojazd do Śródmieścia.
+Mieszkanie jest w doskonałym stanie, **w pełni umeblowane i wyposażone**, gotowe
+do zamieszkania i dostępne od zaraz. **Niezależna kuchnia i WC**. Pomieszczenie
+gospodarcze w mieszkaniu i komórka lokatorska w piwnicy. Telewizja kablowa i
+kino domowe. Parking pod blokiem. Balkon z szerokim widokiem. Bezpośrednio od
+właściciela. **1700 zł / mc**{:.nobr} + koszty eksploatacji. Telefon: **609 794
+959**{:.nobr}
 {: #ogloszenie-txt data-timing="18320" }
 
 Skocz do:
@@ -86,8 +87,8 @@ Skocz do:
 
 ### Mieszkanie
 * **3 pokoje z osobną jasną kuchnią**, łazienką, WC i pomieszczeniem
-  gospodarczym, **61,6 m²**
-* Drugie piętro (z czterech) w bloku z lat 70-tych
+  gospodarczym, **61,6 m²**{:.nobr}
+* Drugie piętro (z czterech) w bloku z lat <span>70-tych</span>{:.nobr}
 * W doskonałym stanie, pokoje i kuchnia niedawno remontowane.
 * **Pełne wyposażenie kuchni** (kuchenka gazowa, zmywarka, lodówka,
   mikrofalówka, naczynia i sztućce)

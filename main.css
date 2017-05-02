@@ -20,6 +20,9 @@ a {
 a:visited {
   color: #040;
 }
+.nobr	{
+  white-space: nowrap;
+}
 .green {
   color: forestgreen;
 }
