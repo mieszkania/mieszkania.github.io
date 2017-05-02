@@ -24,6 +24,11 @@ if (queryString) {
   }
 }
 
+ga('set', 'campaignSource', qs['utm_source']);
+ga('set', 'campaignMedium', qs['utm_medium']);
+ga('set', 'campaignName', qs['utm_campaign']);
+ga('set', 'campaignKeyword', qs['utm_term']);
+ga('set', 'campaignContent', qs['utm_content']);
 ga(function(tracker) {
   ga('set', 'dimension1', tracker.get('clientId'));
 });
@@ -34,6 +39,5 @@ ga('set', 'dimension5', qs['utm_position']);
 
 var page = location.pathname + location.hash;
 window.history.replaceState(null, null, page);
-ga('send', 'pageview', {
-  'page': page,
-});
+ga('set', 'page', page);
+ga('send', 'pageview');
