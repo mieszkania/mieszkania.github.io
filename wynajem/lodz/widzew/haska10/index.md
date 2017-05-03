@@ -123,8 +123,7 @@ Poniższe odległości to rzeczywiste odległości przejścia lub przejazdu:
   * 650 m do centrum fitness
   * 650 m do przychodni
 * Dzieci i nauka
-  * 300 m do przedszkola, Gimnazjum <span>nr 35</span>{:.nobr} i XLVII Liceum
-    Ogólnokształcącego
+  * 300 m do przedszkola, Gimnazjum nr 35 i XLVII Liceum Ogólnokształcącego
   * 450 m do Szkoły Podstawowej im. Tuwima
   * 600 m do żłobka
 {: #okolica-txt data-timing="22280" }
