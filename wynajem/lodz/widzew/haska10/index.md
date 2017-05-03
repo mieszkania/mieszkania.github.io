@@ -123,17 +123,18 @@ Poniższe odległości to rzeczywiste odległości przejścia lub przejazdu:
   * 650 m do centrum fitness
   * 650 m do przychodni
 * Dzieci i nauka
-  * 300 m do przedszkola, Gimnazjum nr 35 i XLVII Liceum Ogólnokształcącego
+  * 300 m do przedszkola, Gimnazjum <span>nr 35</span>{:.nobr} i XLVII Liceum
+    Ogólnokształcącego
   * 450 m do Szkoły Podstawowej im. Tuwima
   * 600 m do żłobka
 {: #okolica-txt data-timing="22280" }
 
 ### Opłaty
 {: #oplaty}
-* Odstępne: **1700 zł / mc**
-* Opłaty stałe: 250 zł / mc (**w tym gaz**)
-* Centralne ogrzewanie: około 75 zł / mc
-* Media **wg liczników**: prąd, woda
+* Odstępne: **1700 zł / mc**{:.nobr}
+* Opłaty stałe: <span>250 zł / mc</span>{:.nobr} (**w tym gaz**)
+* Centralne ogrzewanie: około <span>75 zł / mc</span>{:.nobr}
+* Media **wg liczników**{:.nobr}: prąd, woda
 * Odpady komunalne
 {: #oplaty-txt data-timing="7080" }
 
@@ -141,13 +142,13 @@ Poniższe odległości to rzeczywiste odległości przejścia lub przejazdu:
 * Mieszkanie dostępne od zaraz
 * Umowa przynajmniej na rok, najchętniej wynajem długoterminowy
 * Dla osób niepalących, bez zwierząt domowych
-* Kaucja: 2500 zł
+* Kaucja: <span>2500 zł</span>{:.nobr}
 * Zezwolenie na sprawdzenie danych w Biurze Informacji Kredytowej i Biurach
   Informacji Gospodarczej
 {: #warunki-txt data-timing="8910" }
 
 ### Kontakt
-* Telefon: **609 794 959**
+* Telefon: **609 794 959**{:.nobr}
 * Bez pośredników, wynajem bezpośredni
 {: #kontakt-txt data-timing="3850" }
 
