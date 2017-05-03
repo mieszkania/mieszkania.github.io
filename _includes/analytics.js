@@ -24,18 +24,26 @@ if (queryString) {
   }
 }
 
-ga('set', 'campaignSource', qs['utm_source']);
-ga('set', 'campaignMedium', qs['utm_medium']);
-ga('set', 'campaignName', qs['utm_campaign']);
-ga('set', 'campaignKeyword', qs['utm_term']);
-ga('set', 'campaignContent', qs['utm_content']);
 ga(function(tracker) {
   ga('set', 'dimension1', tracker.get('clientId'));
 });
-ga('set', 'dimension2', qs['utm_match']);
-ga('set', 'dimension3', qs['utm_network']);
-ga('set', 'dimension4', qs['utm_placement']);
-ga('set', 'dimension5', qs['utm_position']);
+var fieldMap = {
+  'campaignSource': 'source',
+  'campaignMedium': 'medium',
+  'campaignName': 'campaign',
+  'campaignKeyword': 'term',
+  'campaignContent': 'content',
+  'dimension2': 'match',
+  'dimension3': 'network',
+  'dimension4': 'placement',
+  'dimension5': 'position',
+};
+for (var field in fieldMap) {
+  var utm = qs['utm_' + fieldMap[field]];
+  if (!!utm) {
+    ga('set', field, utm);
+  }
+}
 
 var page = location.pathname + location.hash;
 window.history.replaceState(null, null, page);
