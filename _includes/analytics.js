@@ -24,6 +24,7 @@ if (queryString) {
   }
 }
 
+ga('require', 'displayfeatures');
 ga(function(tracker) {
   ga('set', 'dimension1', tracker.get('clientId'));
 });
