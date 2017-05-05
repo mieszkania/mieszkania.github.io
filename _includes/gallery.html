@@ -1,4 +1,4 @@
-<table class="photos">
+<table class="photos"{% if include.id %} id="{{include.id}}"{% endif %}>
 {% tablerow image in include.images cols:2 %}
   <div class="{% if image.portrait %}portrait{% else %}landscape{% endif %}">
     <a href="{{include.resolutions[0]}}/{{image.src}}"
