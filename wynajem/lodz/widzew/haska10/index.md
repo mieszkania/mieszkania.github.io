@@ -53,26 +53,33 @@ resolutions:
  - 480
  - 360
 ---
+{::options parse_block_html="true" /}
+<header>
 # Mieszkanie do wynajęcia
 {: #ogloszenie }
 ## Łódź Widzew, Haška 10
 {: #adres }
-Stan: <span class="green">**wolne**</span>
-(aktualizacja: 3 maja 2017)
+Stan: **wolne**{:.green} (aktualizacja: 5 maja 2017)
+</header>
 
+<section>
 Wynajmę **3-pokojowe**{:.nobr} mieszkanie z kuchnią o powierzchni **61,6
 m²**{:.nobr}, położone na **osiedlu im. Stefana Batorego** w Łodzi (Widzew
 Wschód), niedaleko **parku Widzewska Górka**. Mieszkanie znajduje się na **2.
 piętrze**{:.nobr} <span>4-piętrowego</span>{:.nobr} bloku przy ulicy **Haška
 10**{:.nobr}. Świetna lokalizacja na Widzewie, szybki dojazd do Śródmieścia.
-Mieszkanie jest w doskonałym stanie, **w pełni umeblowane i wyposażone**, gotowe
-do zamieszkania i dostępne od zaraz. **Niezależna kuchnia i WC**. Pomieszczenie
-gospodarcze w mieszkaniu i komórka lokatorska w piwnicy. Telewizja kablowa i
-kino domowe. Parking pod blokiem. Balkon z szerokim widokiem. Bezpośrednio od
-właściciela. **1700 zł / mc**{:.nobr} + koszty eksploatacji. Telefon: **609 794
-959**{:.nobr}
-{: #ogloszenie-txt data-timing="18320" }
 
+Wynajmowane mieszkanie jest w doskonałym stanie, **w pełni umeblowane i
+wyposażone**, gotowe do wynajęcia i zamieszkania od zaraz. Trzy jasne pokoje,
+**niezależna kuchnia i WC**, dodatkowe pomieszczenie gospodarcze w mieszkaniu i
+komórka lokatorska w piwnicy. **Kino domowe**, telewizja kablowa i **internet
+światłowodowy**. Parking pod blokiem. Balkon z szerokim widokiem.
+
+Wynajem **bezpośrednio** od właściciela. **1700 zł / mc**{:.nobr} + koszty
+eksploatacji. Telefon: **609 794 959**{:.nobr}
+</section>{: #a-ogloszenie data-timing="18320" }
+
+<nav>
 Skocz do:
 [Lokalizacja](#lokalizacja){: .report-clicks} |
 [Mieszkanie](#mieszkanie){: .report-clicks} |
@@ -81,10 +88,13 @@ Skocz do:
 [Warunki](#warunki){: .report-clicks} |
 [Kontakt](#kontakt){: .report-clicks} |
 [Zdjęcia](#zdjecia){: .report-clicks}
+</nav>
 
-<iframe class="gmap" src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJWYdw7qzMG0cR1EDZvZ-BzRc&key=AIzaSyBawQgY87ZUOa4Qw1lohNAUKpmHt0gxkVs"></iframe>
-{: #lokalizacja data-timing="20350" }
+<section>
+<iframe class="gmap" src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJWYdw7qzMG0cR1EDZvZ-BzRc&key=AIzaSyBawQgY87ZUOa4Qw1lohNAUKpmHt0gxkVs"></iframe>{: #lokalizacja}
+</section>{: #b-lokalizacja data-timing="20350" }
 
+<section>
 ### Mieszkanie
 * **3 pokoje z osobną jasną kuchnią**, łazienką, WC i pomieszczeniem
   gospodarczym, **61,6 m²**{:.nobr}
@@ -103,8 +113,9 @@ Skocz do:
 * Przynależna komórka w piwnicy, domofon przy wejściu
 * Miejsca parkingowe pod blokiem, parking strzeżony niedaleko
 * Balkon z widokiem na obszar zieleni i panoramę miasta
-{: #mieszkanie-txt data-timing="27110" }
+</section>{: #c-mieszkanie data-timing="27110" }
 
+<section>
 ### Okolica
 Poniższe odległości to rzeczywiste odległości przejścia lub przejazdu:
 
@@ -126,8 +137,9 @@ Poniższe odległości to rzeczywiste odległości przejścia lub przejazdu:
   * 300 m do przedszkola, Gimnazjum nr 35 i XLVII Liceum Ogólnokształcącego
   * 450 m do Szkoły Podstawowej im. Tuwima
   * 600 m do żłobka
-{: #okolica-txt data-timing="22280" }
+</section>{: #d-okolica data-timing="22280" }
 
+<section>
 ### Opłaty
 {: #oplaty}
 * Odstępne: **1700 zł / mc**{:.nobr}
@@ -135,21 +147,25 @@ Poniższe odległości to rzeczywiste odległości przejścia lub przejazdu:
 * Centralne ogrzewanie: około <span>75 zł / mc</span>{:.nobr}
 * Media **wg liczników**{:.nobr}: prąd, woda
 * Odpady komunalne
-{: #oplaty-txt data-timing="7080" }
+</section>{: #e-oplaty data-timing="7080" }
 
+<section>
 ### Warunki
-* Mieszkanie dostępne od zaraz
+* Mieszkanie do wynajęcia od zaraz
 * Umowa przynajmniej na rok, najchętniej wynajem długoterminowy
 * Dla osób niepalących, bez zwierząt domowych
 * Kaucja: <span>2500 zł</span>{:.nobr}
 * Zezwolenie na sprawdzenie danych w Biurze Informacji Kredytowej i Biurach
   Informacji Gospodarczej
-{: #warunki-txt data-timing="8910" }
+</section>{: #f-warunki data-timing="8910" }
 
+<section>
 ### Kontakt
 * Telefon: **609 794 959**{:.nobr}
 * Bez pośredników, wynajem bezpośredni
-{: #kontakt-txt data-timing="3850" }
+{: #g-kontakt data-timing="3850" }
+</section>
 
-{% include gallery.html images=page.images resolutions=page.resolutions
-%}{: #zdjecia data-timing="110100" }
+<section>
+{% include gallery.html id="zdjecia" images=page.images resolutions=page.resolutions
+%}</section>{: #h-zdjecia data-timing="110100" }
