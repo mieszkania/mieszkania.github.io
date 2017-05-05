@@ -109,7 +109,8 @@ Skocz do:
 * Szafy przesuwne, dodatkowe pomieszczenie gospodarcze
 * **Sprzęt RTV, Hi-Fi, IT** (dwa telewizory, kino domowe z BluRay, akcesoria
   komputerowe, telefon bezprzewodowy)
-* Instalacja telefoniczna i telewizji kablowej, można łatwo zamówić Internet
+* Instalacja telefoniczna i telewizji kablowej
+* **Internet** kablowy i światłowodowy (**do 900 Mbps**)
 * Przynależna komórka w piwnicy, domofon przy wejściu
 * Miejsca parkingowe pod blokiem, parking strzeżony niedaleko
 * Balkon z widokiem na obszar zieleni i panoramę miasta
