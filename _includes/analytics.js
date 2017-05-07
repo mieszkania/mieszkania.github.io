@@ -14,39 +14,21 @@ window.addEventListener('error', function(event) {
   });
 });
 
-window.qs = {};
-var queryString = location.search.substring(1);
-if (queryString) {
-  var components = queryString.replace(/\+/g, ' ').split(/[&;]/g);
-  for (var i = 0; i < components.length; i++) {
-    var keyval = components[i].split('=');
-    qs[decodeURIComponent(keyval[0])] = decodeURIComponent(keyval[1] || '');
-  }
-}
-
 ga('require', 'displayfeatures');
+ga('require', 'querystring', {
+  'map': {
+    'campaignSource': 'utm_source',
+    'campaignMedium': 'utm_medium',
+    'campaignName': 'utm_campaign',
+    'campaignKeyword': 'utm_term',
+    'campaignContent': 'utm_content',
+    'dimension2': 'utm_match',
+    'dimension3': 'utm_network',
+    'dimension4': 'utm_placement',
+    'dimension5': 'utm_position',
+  },
+});
 ga(function(tracker) {
   ga('set', 'dimension1', tracker.get('clientId'));
 });
-var fieldMap = {
-  'campaignSource': 'source',
-  'campaignMedium': 'medium',
-  'campaignName': 'campaign',
-  'campaignKeyword': 'term',
-  'campaignContent': 'content',
-  'dimension2': 'match',
-  'dimension3': 'network',
-  'dimension4': 'placement',
-  'dimension5': 'position',
-};
-for (var field in fieldMap) {
-  var utm = qs['utm_' + fieldMap[field]];
-  if (!!utm) {
-    ga('set', field, utm);
-  }
-}
-
-var page = location.pathname + location.hash;
-window.history.replaceState(null, null, page);
-ga('set', 'page', page);
 ga('send', 'pageview');
