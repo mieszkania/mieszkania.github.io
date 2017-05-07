@@ -51,13 +51,13 @@
         }
       }
     }
-    if (maxMs == 0) {
+    if (maxMs > 0) {
+      reportOne(monitoredElements[maxIndex]);
+    } else {
       clearInterval(reporter);
       reporter = null;
-      scrolled = false;
-      return;
     }
-    reportOne(monitoredElements[maxIndex]);
+    scrolled = false;
   }
 
   function totalArea(element) {
@@ -82,9 +82,6 @@
   }
 
   function checkElements(event) {
-    if (event && event.type == 'scroll') {
-      scrolled = true;
-    }
     integrate(true);
     timedArea = 0;
     for (var i = 0; i < monitoredElements.length; i++) {
@@ -100,6 +97,9 @@
     }
     if (!reporter && timedArea > 0) {
       reporter = setInterval(reportSome, 1000);
+    }
+    if (reporter && event && event.type == 'scroll') {
+      scrolled = true;
     }
   }
 
