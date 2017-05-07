@@ -15,6 +15,7 @@ window.addEventListener('error', function(event) {
 });
 
 ga('require', 'displayfeatures');
+ga('require', 'conversions');
 ga('require', 'querystring', {
   'map': {
     'campaignSource': 'utm_source',
