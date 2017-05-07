@@ -1,5 +1,5 @@
 (function() {
-  function plugin(tracker, config) {
+  var plugin = function(tracker, config) {
     if (!config.map) {
       return;
     }
@@ -36,7 +36,7 @@
     var page = location.pathname + newSearch + location.hash;
     window.history.replaceState(null, null, page);
     tracker.set('page', page);
-  }
+  };
 
   ga('provide', 'querystring', plugin);
 })();
