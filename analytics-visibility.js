@@ -26,7 +26,7 @@
     if (monitor.element.hasAttribute('data-conversions')) {
       var conversions =
           monitor.element.getAttribute('data-conversions').split(',');
-      for (var i = 0; i < conversions; i++) {
+      for (var i = 0; i < conversions.length; i++) {
         ga('conversions:send', conversions[i].trim());
       }
     }

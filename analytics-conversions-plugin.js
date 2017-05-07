@@ -10,7 +10,7 @@
   function format(str, replacements) {
     return str.replace(/%(\w+)%/g, function(ignore, tag) {
       return replacements[tag] || '';
-    }
+    });
   }
 
   plugin.prototype.send = function(name) {
