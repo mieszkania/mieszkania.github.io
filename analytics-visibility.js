@@ -22,6 +22,16 @@
     }
   }
 
+  function convertOne(monitor) {
+    if (monitor.element.hasAttribute('data-conversions')) {
+      var conversions =
+          monitor.element.getAttribute('data-conversions').split(',');
+      for (var i = 0; i < conversions; i++) {
+        ga('conversions:send', conversions[i].trim());
+      }
+    }
+  }
+
   function reportOne(monitor) {
     if (monitor.element.id) {
       var visible = monitor.area > 0;
@@ -88,6 +98,10 @@
       var monitor = monitoredElements[i];
       monitor.area = visibleArea(monitor.element);
       if (monitor.area > 0) {
+        if (!monitor.ever) {
+          monitor.ever = true;
+          convertOne(monitor);
+        }
         timedArea += monitor.area;
         var fraction = monitor.area / totalArea(monitor.element);
         monitor.limit = monitor.element.getAttribute('data-timing') * fraction;
@@ -107,7 +121,7 @@
     var allElements = document.querySelectorAll('[data-timing]');
     for (var i = 0; i < allElements.length; i++) {
       var element = allElements[i];
-      monitoredElements.push({element: element, ms: 0});
+      monitoredElements.push({'element': element, 'ms': 0});
     }
     if (monitoredElements.length > 0) {
       window.addEventListener('resize', checkElements);
