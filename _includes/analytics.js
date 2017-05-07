@@ -15,7 +15,12 @@ window.addEventListener('error', function(event) {
 });
 
 ga('require', 'displayfeatures');
-ga('require', 'conversions');
+ga('require', 'conversions', {
+  'contact': {
+    'id': 1000094587,
+    'label': 'T0c3CLTt9nAQ-_bw3AM',
+  },
+});
 ga('require', 'querystring', {
   'map': {
     'campaignSource': 'utm_source',
