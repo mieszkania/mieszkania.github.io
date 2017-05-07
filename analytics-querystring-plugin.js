@@ -26,7 +26,7 @@
     for (var field in config.map) {
       var value = mappedParams[config.map[field]];
       if (value != undefined) {
-        ga('set', field, value);
+        tracker.set(field, value);
       }
     }
     var newSearch = '';
@@ -35,7 +35,7 @@
     }
     var page = location.pathname + newSearch + location.hash;
     window.history.replaceState(null, null, page);
-    ga('set', 'page', page);
+    tracker.set('page', page);
   }
 
   ga('provide', 'querystring', plugin);
