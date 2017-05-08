@@ -57,7 +57,7 @@ resolutions:
 <header>
 # Mieszkanie do wynajęcia <span>Łódź Widzew, Haška 10</span>{:.sub}
 {: #ogloszenie }
-Stan: **wolne**{:.green} (aktualizacja: 5 maja 2017)
+Stan: **wolne**{:.green} (aktualizacja: 8 maja 2017)
 </header>
 
 <div>
@@ -74,18 +74,19 @@ komórka lokatorska w piwnicy. **Kino domowe**, telewizja kablowa i **internet
 światłowodowy**. Parking pod blokiem. Balkon z szerokim widokiem.
 
 Wynajem **bezpośrednio** od właściciela. **1700 zł / mc**{:.nobr} + koszty
-eksploatacji. Telefon: **609 794 959**{:.nobr}
+eksploatacji. Telefon:
+[**609 794 959**{:.nobr}](tel:+48-609-794-959){:#tel1 .report-clicks}
 </div>{: #a-ogloszenie data-timing="18320" }
 
 <nav>
 Skocz do:
-[Lokalizacja](#lokalizacja){: .report-clicks} |
-[Mieszkanie](#mieszkanie){: .report-clicks} |
-[Okolica](#okolica){: .report-clicks} |
-[Opłaty](#oplaty){: .report-clicks} |
-[Warunki](#warunki){: .report-clicks} |
-[Kontakt](#kontakt){: .report-clicks} |
-[Zdjęcia](#zdjecia){: .report-clicks}
+[Lokalizacja](#lokalizacja){:.report-clicks} |
+[Mieszkanie](#mieszkanie){:.report-clicks} |
+[Okolica](#okolica){:.report-clicks} |
+[Opłaty](#oplaty){:.report-clicks} |
+[Warunki](#warunki){:.report-clicks} |
+[Kontakt](#kontakt){:.report-clicks} |
+[Zdjęcia](#zdjecia){:.report-clicks}
 </nav>
 
 <figure>
@@ -161,7 +162,7 @@ Poniższe odległości to rzeczywiste odległości przejścia lub przejazdu:
 
 <section>
 ## Kontakt
-* Telefon: **609 794 959**{:.nobr}
+* Telefon: [**609 794 959**{:.nobr}](tel:+48-609-794-959){:#tel2 .report-clicks}
 * Bez pośredników, wynajem bezpośredni
 {: #g-kontakt data-timing="3850" data-conversions="contact" }
 </section>
