@@ -55,14 +55,16 @@ resolutions:
 ---
 {::options parse_block_html="true" /}
 <header>
+<hgroup>
 # Mieszkanie do wynajęcia
 {: #ogloszenie }
 ## Łódź Widzew, Haška 10
 {: #adres }
+</hgroup>
 Stan: **wolne**{:.green} (aktualizacja: 5 maja 2017)
 </header>
 
-<section>
+<div>
 Wynajmę **3-pokojowe**{:.nobr} mieszkanie z kuchnią o powierzchni **61,6
 m²**{:.nobr}, położone na **osiedlu im. Stefana Batorego** w Łodzi (Widzew
 Wschód), niedaleko **parku Widzewska Górka**. Mieszkanie znajduje się na **2.
@@ -77,7 +79,7 @@ komórka lokatorska w piwnicy. **Kino domowe**, telewizja kablowa i **internet
 
 Wynajem **bezpośrednio** od właściciela. **1700 zł / mc**{:.nobr} + koszty
 eksploatacji. Telefon: **609 794 959**{:.nobr}
-</section>{: #a-ogloszenie data-timing="18320" }
+</div>{: #a-ogloszenie data-timing="18320" }
 
 <nav>
 Skocz do:
@@ -90,9 +92,9 @@ Skocz do:
 [Zdjęcia](#zdjecia){: .report-clicks}
 </nav>
 
-<section>
+<figure>
 <iframe class="gmap" src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJWYdw7qzMG0cR1EDZvZ-BzRc&key=AIzaSyBawQgY87ZUOa4Qw1lohNAUKpmHt0gxkVs"></iframe>{: #lokalizacja}
-</section>{: #b-lokalizacja data-timing="20350" }
+</figure>{: #b-lokalizacja data-timing="20350" }
 
 <section>
 ### Mieszkanie
@@ -168,6 +170,6 @@ Poniższe odległości to rzeczywiste odległości przejścia lub przejazdu:
 {: #g-kontakt data-timing="3850" data-conversions="contact" }
 </section>
 
-<section>
+<figure>
 {% include gallery.html id="zdjecia" images=page.images resolutions=page.resolutions
-%}</section>{: #h-zdjecia data-timing="110100" }
+%}</figure>{: #h-zdjecia data-timing="110100" }
