@@ -4,7 +4,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 {% for entry in site.data.sitemap %}
   <url>
-    <loc>{{entry.path | absolute_url}}</loc>
+    <loc>{{entry.loc | absolute_url}}</loc>
     <lastmod>{{entry.lastmod | date_to_xmlschema}}</lastmod>
   </url>
 {% endfor %}
