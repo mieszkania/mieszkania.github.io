@@ -9,10 +9,25 @@ div.content {
   color: #222;
 }
 h1 {
+  font-size: 2em;
   color: darkgreen;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
 }
-h2, h3 {
+h1 .sub {
+  display: block;
+  font-size: 75%;
   color: forestgreen;
+  margin-top: 0.5em;
+}
+header {
+  margin-bottom: 2em;
+}
+h2 {
+  font-size: 1.33em;
+  color: forestgreen;
+  margin-top: 1em;
+  margin-bottom: 0.75em;
 }
 figure {
   margin: 0;

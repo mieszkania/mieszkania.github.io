@@ -55,12 +55,8 @@ resolutions:
 ---
 {::options parse_block_html="true" /}
 <header>
-<hgroup>
-# Mieszkanie do wynajęcia
+# Mieszkanie do wynajęcia <span>Łódź Widzew, Haška 10</span>{:.sub}
 {: #ogloszenie }
-## Łódź Widzew, Haška 10
-{: #adres }
-</hgroup>
 Stan: **wolne**{:.green} (aktualizacja: 5 maja 2017)
 </header>
 
@@ -97,7 +93,7 @@ Skocz do:
 </figure>{: #b-lokalizacja data-timing="20350" }
 
 <section>
-### Mieszkanie
+## Mieszkanie
 * **3 pokoje z osobną jasną kuchnią**, łazienką, WC i pomieszczeniem
   gospodarczym, **61,6 m²**{:.nobr}
 * Drugie piętro (z czterech) w bloku z lat <span>70-tych</span>{:.nobr}
@@ -120,7 +116,7 @@ Skocz do:
 </section>{: #c-mieszkanie data-timing="27110" }
 
 <section>
-### Okolica
+## Okolica
 Poniższe odległości to rzeczywiste odległości przejścia lub przejazdu:
 
 * Komunikacja publiczna
@@ -144,7 +140,7 @@ Poniższe odległości to rzeczywiste odległości przejścia lub przejazdu:
 </section>{: #d-okolica data-timing="22280" }
 
 <section>
-### Opłaty
+## Opłaty
 {: #oplaty}
 * Odstępne: **1700 zł / mc**{:.nobr}
 * Opłaty stałe: <span>250 zł / mc</span>{:.nobr} (**w tym gaz**)
@@ -154,7 +150,7 @@ Poniższe odległości to rzeczywiste odległości przejścia lub przejazdu:
 </section>{: #e-oplaty data-timing="7080" }
 
 <section>
-### Warunki
+## Warunki
 * Mieszkanie do wynajęcia od zaraz
 * Umowa przynajmniej na rok, najchętniej wynajem długoterminowy
 * Dla osób niepalących, bez zwierząt domowych
@@ -164,7 +160,7 @@ Poniższe odległości to rzeczywiste odległości przejścia lub przejazdu:
 </section>{: #f-warunki data-timing="8910" }
 
 <section>
-### Kontakt
+## Kontakt
 * Telefon: **609 794 959**{:.nobr}
 * Bez pośredników, wynajem bezpośredni
 {: #g-kontakt data-timing="3850" data-conversions="contact" }
