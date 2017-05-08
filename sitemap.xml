@@ -2,7 +2,7 @@
 ---
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-{% for entry in site.data.lastmod %}
+{% for entry in site.data.sitemap %}
   <url>
     <loc>{{entry.path | absolute_url}}</loc>
     <lastmod>{{entry.lastmod | date_to_xmlschema}}</lastmod>
