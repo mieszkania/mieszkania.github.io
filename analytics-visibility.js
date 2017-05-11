@@ -23,9 +23,6 @@
   }
 
   function convertOne(monitor) {
-    if (document.oldCookie) {
-      return;
-    }
     if (monitor.element.hasAttribute('data-conversions')) {
       var conversions =
           monitor.element.getAttribute('data-conversions').split(',');
