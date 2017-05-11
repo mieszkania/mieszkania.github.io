@@ -15,7 +15,7 @@
 
   plugin.prototype.send = function(name) {
     var config = configs[name];
-    if (!config) {
+    if (!config || !config.tags) {
       return;
     }
     if (config.cookie && config.ttl) {
@@ -31,11 +31,14 @@
       document.cookie = config.cookie + '=' + timestamp + '; path=/' +
                         '; expires=' + expires.toUTCString();
     }
-    var img = new Image(1, 1);
-    img.src = format(url, {
-      'id': config.id,
-      'label': config.label,
-    });
+    for (var i = 0; i < config.tags.length; i++) {
+      var tag = config.tags[i];
+      var img = new Image(1, 1);
+      img.src = format(url, {
+        'id': tag.id,
+        'label': tag.label,
+      });
+    }
   };
 
   ga('provide', 'conversions', plugin);

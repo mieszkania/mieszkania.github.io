@@ -16,8 +16,15 @@ window.addEventListener('error', function(event) {
 ga('require', 'displayfeatures');
 ga('require', 'conversions', {
   'kontakt': {
-    'id': 1000094587,
-    'label': 'T0c3CLTt9nAQ-_bw3AM',
+    'tags': [
+      {
+        'id': 1000094587,
+        'label': 'T0c3CLTt9nAQ-_bw3AM',
+      }, {
+        'id': 1008764212,
+        'label': 'SkHECNrBmXEQtlqC4QM',
+      }
+    ],
     'cookie': 'h10kv',
     'ttl': 604800,
   },
