@@ -72,7 +72,10 @@ input, textarea {
   width: 100%;
 }
 input[type=submit] {
-  background: lightgreen;
+  border-radius: 0.25em;
+  background-color: lightgreen;
+  background-image: linear-gradient(to bottom, palegreen, lightgreen);
+  cursor: pointer;
 }
 textarea {
   box-sizing: border-box;
