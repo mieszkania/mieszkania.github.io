@@ -14,17 +14,25 @@ if (queryString) {
   if (client) {
     form['client'] = client[1];
   }
-  var trivial = true;
+  var empty = true;
   var components = queryString.replace(/\+/g, ' ').split(/[&;]/g);
   for (var i = 0; i < components.length; i++) {
     var keyValue = components[i].split('=');
     if (keyValue[1]) {
       form[decodeURIComponent(keyValue[0])] = decodeURIComponent(keyValue[1]);
-      trivial = false;
+      empty = false;
     }
   }
-  if (!trivial) {
-    firebase.database().ref('forms').push().set(form);
+  if (empty) {
+    window.parent.postMessage('empty', '*');
+  } else {
+    firebase.database().ref('forms').push().set(form)
+        .then(function() {
+          window.parent.postMessage('success', '*');
+        })
+        .catch(function() {
+          window.parent.postMessage('failure', '*');
+        });
   }
 }
 </script>

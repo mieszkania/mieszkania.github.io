@@ -77,6 +77,18 @@ input[type=submit] {
   background-image: linear-gradient(to bottom, palegreen, lightgreen);
   cursor: pointer;
 }
+input[type=submit].pending {
+  background: gainsboro;
+  cursor: default;
+}
+input[type=submit].success {
+  background: palegreen;
+  cursor: default;
+}
+input[type=submit].failure {
+  background-color: pink;
+  background-image: linear-gradient(to bottom, pink, lightcoral);
+}
 textarea {
   box-sizing: border-box;
   height: 5em;
