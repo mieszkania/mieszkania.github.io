@@ -61,6 +61,8 @@ fieldset div.flex input {
   flex-grow: 1;
 }
 input, textarea {
+  font-size: 100%;
+  padding: 0.25em;
   border: 1px solid gray;
   width: 100%;
 }
