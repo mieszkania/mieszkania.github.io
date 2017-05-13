@@ -86,7 +86,8 @@ Skocz do:
 [Opłaty](#oplaty){:.report-clicks} |
 [Warunki](#warunki){:.report-clicks} |
 [Kontakt](#kontakt){:.report-clicks} |
-[Zdjęcia](#zdjecia){:.report-clicks}
+[Zdjęcia](#zdjecia){:.report-clicks} |
+[Napisz](#napisz){:.report-clicks}
 </nav>
 
 <figure>
@@ -164,6 +165,7 @@ Poniższe odległości to rzeczywiste odległości przejścia lub przejazdu:
 ## Kontakt
 * Telefon: [**609 794 959**{:.nobr}](tel:+48-609-794-959){:#tel2 .report-clicks}
 * Bez pośredników, wynajem bezpośredni
+* [Napisz wiadomość](#napisz){:.report-clicks}
 {: #g-kontakt data-timing="3850" data-conversions="kontakt" }
 </section>
 
@@ -171,5 +173,7 @@ Poniższe odległości to rzeczywiste odległości przejścia lub przejazdu:
 {% include gallery.html id="zdjecia" images=page.images resolutions=page.resolutions
 %}</figure>{: #h-zdjecia data-timing="110100" }
 
-<figure>
-{% include contact-form.html id="formularz" %}</figure>{: #i-formularz data-timing="1000" }
+<section>
+## Napisz wiadomość
+{: #napisz}
+{% include contact-form.html id="napisz" %}</section>{: #i-napisz data-timing="6490" }

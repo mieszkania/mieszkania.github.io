@@ -47,6 +47,9 @@ a:visited {
 form {
   margin: 1em 0;
 }
+form iframe {
+  display: none;
+}
 fieldset {
   padding: 0.25em 0;
   border: 0;
