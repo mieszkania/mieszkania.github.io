@@ -11,8 +11,7 @@ div.content {
 h1 {
   font-size: 2em;
   color: darkgreen;
-  margin-top: 0.5em;
-  margin-bottom: 0.5em;
+  margin: 0.5em 0;
 }
 h1 .sub {
   display: block;
@@ -45,6 +44,35 @@ a:visited {
   color: forestgreen;
 }
 
+form {
+  margin: 1em 0;
+}
+fieldset {
+  padding: 0.25em 0;
+  border: 0;
+  margin: 0.5em 0;
+}
+fieldset div.flex {
+  display: flex;
+  flex-wrap: wrap;
+}
+fieldset div.flex input {
+  width: initial;
+  flex-grow: 1;
+}
+input, textarea {
+  border: 1px solid gray;
+  width: 100%;
+}
+input[type=submit] {
+  background: lightgreen;
+}
+textarea {
+  box-sizing: border-box;
+  height: 5em;
+  resize: vertical;
+}
+
 iframe.gmap {
   width: 98%;
   height: 24em;
@@ -57,6 +85,7 @@ table.photos {
   width: 98%;
   border: none;
   border-collapse: collapse;
+  margin: 1em 0;
 }
 table.photos td {
   border: solid 1em white;

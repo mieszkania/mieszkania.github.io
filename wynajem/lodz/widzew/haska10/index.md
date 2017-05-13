@@ -170,3 +170,6 @@ Poniższe odległości to rzeczywiste odległości przejścia lub przejazdu:
 <figure>
 {% include gallery.html id="zdjecia" images=page.images resolutions=page.resolutions
 %}</figure>{: #h-zdjecia data-timing="110100" }
+
+<figure>
+{% include contact-form.html id="formularz" %}</figure>{: #i-formularz data-timing="1000" }
