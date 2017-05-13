@@ -2,23 +2,13 @@
 <html{% if include.page.lang %} lang="{{include.page.lang}}"{% endif %}>
 <head>
 <meta charset="UTF-8">
+<link rel="icon" type="image/x-icon" href="{{"favicon.ico" | absolute_url}}">
 <title>{{include.page.title}}</title>{% if include.page.description %}
 <meta name="description" content="{{include.page.description}}">{% endif %}
 <link rel="canonical" href="{{include.page.url | absolute_url}}">
-<link rel="alternate" href="{{include.page.url | absolute_url}}" hreflang="pl">
-<link rel="icon" type="image/x-icon" href="{{"favicon.ico" | absolute_url}}">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="{{"/main.css" | relative_url}}">
-<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
-<script>
-{% include analytics.js %}</script>{% if include.page.google-site-verification %}
-<meta name="google-site-verification" content="{{include.page.google-site-verification}}">{% endif %}
-<script defer src="{{"/analytics-clicks.js" | relative_url}}"></script>
-<script defer src="{{"/analytics-visibility.js" | relative_url}}"></script>
-<script async src="{{"/image-zoom.js" | relative_url}}"></script>
-<script async src="https://www.google-analytics.com/analytics.js"></script>
-<script async src="{{"/analytics-querystring-plugin.js" | relative_url}}"></script>
-<script async src="{{"/analytics-conversions-plugin.js" | relative_url}}"></script>
+<link rel="alternate" href="{{include.page.url | absolute_url}}"{% if include.page.lang %} hreflang="{{include.page.lang}}"{% endif %}>
+{% include head-style.html %}{% if include.page.google-site-verification %}<meta name="google-site-verification" content="{{include.page.google-site-verification}}">{% endif %}
+{% include head-analytics.html %}<script async src="{{"/image-zoom.js" | relative_url}}"></script>
 </head>
 <body>
 <div class="content">
