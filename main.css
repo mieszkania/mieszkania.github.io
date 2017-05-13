@@ -55,10 +55,12 @@ fieldset {
 fieldset div.flex {
   display: flex;
   flex-wrap: wrap;
+  margin: 0 -0.25em;
 }
 fieldset div.flex input {
   width: initial;
   flex-grow: 1;
+  margin: 0.25em;
 }
 input, textarea {
   font-size: 100%;
