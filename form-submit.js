@@ -28,7 +28,7 @@
       }
       var buttons = form.querySelectorAll('input[type=submit]');
       window.addEventListener('message', function(event) {
-        if (event.source.name != iframe.name ||
+        if (event.source !== iframe.contentWindow ||
             !(event.data in buttonEnabled)) {
           return;
         }
