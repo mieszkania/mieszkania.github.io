@@ -57,7 +57,7 @@ resolutions:
 <header>
 # Mieszkanie do wynajęcia <span>Łódź Widzew, Haška 10</span>{:.sub}
 {: #ogloszenie }
-Stan: **wolne**{:.green} (aktualizacja: 19 maja 2017)
+Stan: **wolne**{:.green} (aktualizacja: 20 maja 2017)
 </header>
 
 <div>
@@ -73,7 +73,7 @@ wyposażone**, gotowe do wynajęcia i zamieszkania od zaraz. Trzy jasne pokoje,
 komórka lokatorska w piwnicy. **Kino domowe**, telewizja kablowa i **internet
 światłowodowy**. Parking pod blokiem. Balkon z szerokim widokiem.
 
-Wynajem **bezpośrednio** od właściciela. **1700 zł / mc**{:.nobr} + koszty
+Wynajem **bezpośrednio** od właściciela. **1600 zł / mc**{:.nobr} + koszty
 eksploatacji. Telefon:
 [**609 794 959**{:.nobr}](tel:+48-609-794-959){:#tel1 .report-clicks}
 </div>{: #a-ogloszenie data-timing="18320" }
@@ -144,7 +144,7 @@ Poniższe odległości to rzeczywiste odległości przejścia lub przejazdu:
 <section>
 ## Opłaty
 {: #oplaty}
-* Odstępne: **1700 zł / mc**{:.nobr}
+* Odstępne: **1600 zł / mc**{:.nobr}
 * Opłaty stałe: <span>250 zł / mc</span>{:.nobr} (**w tym gaz**)
 * Centralne ogrzewanie: około <span>75 zł / mc</span>{:.nobr}
 * Media **wg liczników**{:.nobr}: prąd, woda
