@@ -23,7 +23,7 @@
     for (var i = 0; i < forms.length; i++) {
       var form = forms[i];
       var iframe = form.getElementsByTagName('iframe')[0];
-      if (!iframe || !iframe.name) {
+      if (!iframe) {
         continue;
       }
       var buttons = form.querySelectorAll('input[type=submit]');
