@@ -45,6 +45,7 @@ a:visited {
 }
 
 form {
+  max-width: 47em;
   margin: 1em 0;
 }
 form iframe {
@@ -65,11 +66,21 @@ fieldset div.flex input {
   flex-grow: 1;
   margin: 0.25em;
 }
+fieldset div.flex input[type=submit] {
+  padding-left: 1em;
+  padding-right: 1em;
+  flex-grow: 0;
+}
 input, textarea {
   font-size: 100%;
   padding: 0.25em;
   border: 1px solid gray;
   width: 100%;
+}
+textarea {
+  box-sizing: border-box;
+  height: 5em;
+  resize: vertical;
 }
 input[type=submit] {
   border-radius: 0.25em;
@@ -89,14 +100,10 @@ input[type=submit].failure {
   background-color: pink;
   background-image: linear-gradient(to bottom, pink, lightcoral);
 }
-textarea {
-  box-sizing: border-box;
-  height: 5em;
-  resize: vertical;
-}
 
 iframe.gmap {
-  width: 98%;
+  width: 100%;
+  max-width: 47em;
   height: 24em;
   max-height: 90vh;
   border: 1px solid lightgray;
@@ -104,7 +111,8 @@ iframe.gmap {
 }
 
 table.photos {
-  width: 98%;
+  width: 100%;
+  max-width: 47em;
   border: none;
   border-collapse: collapse;
   margin: 1em 0;
