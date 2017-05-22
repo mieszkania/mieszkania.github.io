@@ -78,6 +78,9 @@ eksploatacji. Telefon:
 [**609 794 959**{:.nobr}](tel:+48-609-794-959){:#tel1 .report-clicks}
 </div>{: #a-ogloszenie data-timing="18320" }
 
+<figure>
+{% include form-kontakt.html %}</figure>
+
 <nav>
 Skocz do:
 [Lokalizacja](#lokalizacja){:.report-clicks} |
@@ -176,4 +179,4 @@ Poniższe odległości to rzeczywiste odległości przejścia lub przejazdu:
 <section>
 ## Wyślij pytanie
 {: #napisz}
-{% include contact-form.html id="napisz" %}</section>{: #i-napisz data-timing="6490" }
+{% include form-wiadomosc.html %}</section>{: #i-napisz data-timing="6490" }
