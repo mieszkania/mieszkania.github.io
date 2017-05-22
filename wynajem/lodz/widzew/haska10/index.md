@@ -57,7 +57,7 @@ resolutions:
 <header>
 # Mieszkanie do wynajęcia <span>Łódź Widzew, Haška 10</span>{:.sub}
 {: #ogloszenie }
-Stan: **wolne**{:.green} (aktualizacja: 20 maja 2017)
+Stan: **wolne**{:.green} (aktualizacja: 23 maja 2017)
 </header>
 
 <div>
@@ -87,7 +87,7 @@ Skocz do:
 [Warunki](#warunki){:.report-clicks} |
 [Kontakt](#kontakt){:.report-clicks} |
 [Zdjęcia](#zdjecia){:.report-clicks} |
-[Napisz](#napisz){:.report-clicks}
+[Wyślij pytanie](#napisz){:.report-clicks}
 </nav>
 
 <figure>
@@ -165,7 +165,7 @@ Poniższe odległości to rzeczywiste odległości przejścia lub przejazdu:
 ## Kontakt
 * Telefon: [**609 794 959**{:.nobr}](tel:+48-609-794-959){:#tel2 .report-clicks}
 * Bez pośredników, wynajem bezpośredni
-* Krótkie pytanie? [**Napisz wiadomość**](#napisz){:.report-clicks} poniżej
+* [**Wyślij pytanie**](#napisz){:.report-clicks} prosto ze strony
 {: #g-kontakt data-timing="6110" data-conversions="kontakt" }
 </section>
 
@@ -174,6 +174,6 @@ Poniższe odległości to rzeczywiste odległości przejścia lub przejazdu:
 %}</figure>{: #h-zdjecia data-timing="110100" }
 
 <section>
-## Napisz wiadomość
+## Wyślij pytanie
 {: #napisz}
 {% include contact-form.html id="napisz" %}</section>{: #i-napisz data-timing="6490" }
