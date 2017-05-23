@@ -1,7 +1,7 @@
 <form markdown="0" action="{{"/form.html" | relative_url}}" target="kontakt-target">
   <iframe name="kontakt-target"></iframe>
-  <fieldset>
-    <legend>Zostaw numer, <strong>oddzwonię</strong>:</legend>
+  <fieldset>{% if include.legend %}
+    <legend>{{ include.legend | markdownify }}</legend>{% endif %}
     <div class="flex">
       <input type="text" name="kontakt" placeholder="Telefon lub e-mail"
        style="max-width: 16em">

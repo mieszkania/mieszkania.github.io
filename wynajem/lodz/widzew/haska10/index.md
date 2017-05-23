@@ -74,12 +74,13 @@ komórka lokatorska w piwnicy. **Kino domowe**, telewizja kablowa i **internet
 światłowodowy**. Parking pod blokiem. Balkon z szerokim widokiem.
 
 Wynajem **bezpośrednio** od właściciela. **1600 zł / mc**{:.nobr} + koszty
-eksploatacji. Telefon:
-[**609 794 959**{:.nobr}](tel:+48-609-794-959){:#tel1 .report-clicks}
-</div>{: #a-ogloszenie data-timing="18320" }
+eksploatacji.
 
-<figure>
-{% include form-kontakt.html %}</figure>
+Pytania? Zadzwoń pod numer [**609 794
+959**{:.nobr}](tel:+48-609-794-959){:#tel1 .report-clicks}. Lub zostaw swój
+numer, **oddzwonię**.
+
+{% include form-kontakt.html %}</div>{: #a-ogloszenie data-timing="18320" }
 
 <nav>
 Skocz do:
