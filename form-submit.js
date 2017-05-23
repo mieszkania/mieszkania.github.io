@@ -18,29 +18,32 @@
     }
   }
 
+  function bindForm(form) {
+    var iframe = form.getElementsByTagName('iframe')[0];
+    if (!iframe) {
+      return;
+    }
+    var buttons = form.querySelectorAll('input[type=submit]');
+    window.addEventListener('message', function(event) {
+      if (event.source !== iframe.contentWindow ||
+          !(event.data in buttonEnabled)) {
+        return;
+      }
+      for (var j = 0; j < buttons.length; j++) {
+        updateButton(buttons[j], event.data);
+      }
+    });
+    form.addEventListener('submit', function() {
+      for (var j = 0; j < buttons.length; j++) {
+        updateButton(buttons[j], 'pending');
+      }
+    });
+  }
+
   function findForms() {
     var forms = document.getElementsByTagName('form');
     for (var i = 0; i < forms.length; i++) {
-      var form = forms[i];
-      var iframe = form.getElementsByTagName('iframe')[0];
-      if (!iframe) {
-        continue;
-      }
-      var buttons = form.querySelectorAll('input[type=submit]');
-      window.addEventListener('message', function(event) {
-        if (event.source !== iframe.contentWindow ||
-            !(event.data in buttonEnabled)) {
-          return;
-        }
-        for (var j = 0; j < buttons.length; j++) {
-          updateButton(buttons[j], event.data);
-        }
-      });
-      form.addEventListener('submit', function() {
-        for (var j = 0; j < buttons.length; j++) {
-          updateButton(buttons[j], 'pending');
-        }
-      });
+      bindForm(forms[i]);
     }
   }
 
