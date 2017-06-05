@@ -6,7 +6,7 @@ title: Łódź Widzew, Haška 10 - Mieszkanie do wynajęcia, bezpośrednio - M4
 description: Wynajmę 3-pokojowe mieszkanie 61,6 m² na 2. piętrze bloku przy
   Haška 10 w Łodzi (Widzew). Mieszkanie w pełni umeblowane i wyposażone. Gotowe
   do wynajęcia i zamieszkania od zaraz. Wynajem bezpośrednio od właściciela.
-price: 1700
+price: 1600
 google-site-verification: PpWhLq-MbDLowjNE06x_t6tNHytzef3k1JWsygF-NZM
 images:
  - src: salon1.jpg
@@ -58,7 +58,7 @@ resolutions:
 <header>
 # Mieszkanie do wynajęcia <span>Łódź Widzew, Haška 10</span>{:.sub}
 {: #ogloszenie }
-Stan: **wolne**{:.green} (aktualizacja: 25 maja 2017)
+Stan: **wolne**{:.green} (aktualizacja: 5 czerwca 2017)
 </header>
 
 <div>
