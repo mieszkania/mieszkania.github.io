@@ -58,7 +58,7 @@ resolutions:
 <header>
 # Mieszkanie do wynajęcia <span>Łódź Widzew, Haška 10</span>{:.sub}
 {: #ogloszenie }
-Stan: **wolne**{:.green} (aktualizacja: 11 lipca 2017)
+Stan: **wolne**{:.green} (aktualizacja: 22 lipca 2017)
 </header>
 
 <div>
