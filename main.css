@@ -43,6 +43,9 @@ a:visited {
 .green {
   color: forestgreen;
 }
+.red {
+  color: firebrick;
+}
 
 form {
   margin: 1em 0;
