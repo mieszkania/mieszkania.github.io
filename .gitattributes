@@ -1,0 +1,10 @@
+*.md text
+*.html text
+*.js text
+*.css text
+*.xml text
+*.yaml text
+*.sh text
+
+*.png binary
+*.jpg binary
