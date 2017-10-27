@@ -92,9 +92,9 @@ Skocz do:
 * **Kuchnia w wysokim standardzie** (pełna zabudowa, granitowy zlewozmywak,
   **płyta indukcyjna**, piekarnik, zmywarka, lodówka), sprzęt wysokiej klasy
   marki **Bosch**
-* **Łazienka w wysokim standardzie** (instalacja podtynkowa, kabina z prysznicem
-  oraz **deszczownicą**, umywalka z lanego marmuru, stylowe szafki i
-  oświetlenie, wysokiej klasy pralka **Bosch**)
+* **Łazienka w wysokim standardzie** (instalacja podtynkowa, kabina z
+  prysznicem oraz **deszczownicą**, umywalka z lanego marmuru, stylowe szafki,
+  wysokiej klasy pralka **Bosch**)
 * Przynależna komórka lokatorska w piwnicy
 * Przynależne **miejsce parkingowe w garażu podziemnym** (za dodatkową opłatą)
 * **Duży balkon z widokiem na Bulwary na Dąbiu i Wisłę**
