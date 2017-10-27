@@ -26,7 +26,7 @@ images:
    alt: "Łazienka"
    portrait: true
  - src: korytarz.jpg
-   alt: "Korytarz"
+   alt: "Przedpokój"
  - src: balkon.jpg
    alt: "Balkon"
  - src: budynek.jpg
@@ -95,6 +95,7 @@ Skocz do:
 * **Łazienka w wysokim standardzie** (instalacja podtynkowa, kabina z
   prysznicem oraz **deszczownicą**, umywalka z lanego marmuru, stylowe szafki,
   wysokiej klasy pralka **Bosch**)
+* Szafy przesuwne w przedpokoju
 * Przynależna komórka lokatorska w piwnicy
 * Przynależne **miejsce parkingowe w garażu podziemnym** (za dodatkową opłatą)
 * **Duży balkon z widokiem na Bulwary na Dąbiu i Wisłę**
