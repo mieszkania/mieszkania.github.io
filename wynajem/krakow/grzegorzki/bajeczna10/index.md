@@ -58,9 +58,10 @@ położeniem zapewniającym doskonały dojazd do każdego miejsca w Krakowie.
 
 Mieszkanie znajduje się na **5. piętrze** nowego apartamentowca (**winda**,
 **garaż podziemny**). Okna i **duży balkon** wychodzą na bulwary zapewniając
-**widok na Wisłę**. Mieszkanie jest urządzone **w wysokim standardzie**
-(ceramika, granit, marmur, sprzęt AGD z górej półki marki **Bosch**), łazienka
-oraz **niezależna kuchnia** są w pełni umeblowane i wyposażone w duże AGD.
+**widok na Wisłę**. Wnętrze jest urządzone **w wysokim standardzie**
+(ceramika, granit, marmur, sprzęt AGD z górej półki marki **Bosch**),
+łazienka oraz **niezależna kuchnia** są w pełni umeblowane i wyposażone w
+duże AGD. Mieszkanie jest gotowe do wynajęcia i zamieszkania **od zaraz**.
 
 Wynajem **bezpośrednio** od właściciela. **{{ page.price }} zł / mc**{:.nobr} +
 koszty eksploatacji. Telefon: [**602 890
@@ -144,7 +145,7 @@ Poniższe odległości to rzeczywiste odległości przejścia lub przejazdu:
 
 <section>
 ## Warunki
-* Mieszkanie do wynajęcia **od 15 października**
+* Mieszkanie do wynajęcia od zaraz
 * Umowa przynajmniej na rok, najchętniej wynajem długoterminowy
 * Dla osób niepalących, bez zwierząt domowych
 * Kaucja: <span>5000 zł</span>{:.nobr}
