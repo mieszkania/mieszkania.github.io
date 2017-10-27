@@ -9,6 +9,37 @@ description: Wynajmę 3-pokojowe mieszkanie 70 m² na 5. piętrze nowego
   na Bulwary na Dąbiu, widok na Wisłę. Wynajem bezpośrednio od właściciela.
 price: 3300
 google-site-verification: PpWhLq-MbDLowjNE06x_t6tNHytzef3k1JWsygF-NZM
+images:
+ - src: salon.jpg
+   alt: "Salon"
+ - src: kuchnia.jpg
+   alt: "Kuchnia"
+ - src: pokoja.jpg
+   alt: "Pokój 1"
+ - src: pokojb.jpg
+   alt: "Pokój 2"
+ - src: lazienka1.jpg
+   alt: "Łazienka"
+   portrait: true
+ - src: lazienka2.jpg
+   alt: "Łazienka"
+   portrait: true
+ - src: korytarz.jpg
+   alt: "Korytarz"
+ - src: balkon.jpg
+   alt: "Balkon"
+ - src: widok.jpg
+   alt: "Widok z balkonu"
+ - src: budynek.jpg
+   alt: "Budynek"
+resolutions:
+ - 3000
+ - 1920
+ - 1440
+ - 1280
+ - 800
+ - 480
+ - 360
 ---
 {::options parse_block_html="true" /}
 <header>
