@@ -6,7 +6,8 @@ title: Kraków Dąbie (Grzegórzki), Bajeczna 10 - Mieszkanie do wynajęcia,
 description: Wynajmę 3-pokojowe mieszkanie 70 m² na 5. piętrze nowego
   apartamentowca przy ul. Bajecznej 10 w Krakowie (Grzegórzki, Dąbie).
   Mieszkanie w wysokim standardzie, wyposażona łazienka i kuchnia. Duży balkon
-  na Bulwary na Dąbiu, widok na Wisłę. Wynajem bezpośrednio od właściciela.
+  na Bulwary na Dąbiu, widok na Wisłę. Gotowe do wynajęcia i zamieszkania od
+  zaraz. Wynajem bezpośrednio od właściciela.
 price: 3300
 google-site-verification: PpWhLq-MbDLowjNE06x_t6tNHytzef3k1JWsygF-NZM
 images:
@@ -45,7 +46,7 @@ resolutions:
 <header>
 # Mieszkanie do wynajęcia <span>Kraków Dąbie (Grzegórzki), Bajeczna 10</span>{:.sub}
 {: #ogloszenie }
-Stan: **wolne od 15 października**{:.green} (aktualizacja: 24 września 2017)
+Stan: **wolne**{:.green} (aktualizacja: 27 października 2017)
 </header>
 
 <div>
