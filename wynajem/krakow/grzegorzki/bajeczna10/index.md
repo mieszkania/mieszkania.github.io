@@ -14,10 +14,10 @@ images:
    alt: "Salon"
  - src: kuchnia.jpg
    alt: "Kuchnia"
- - src: pokoja.jpg
-   alt: "Pokój 1"
  - src: pokojb.jpg
    alt: "Pokój 2"
+ - src: pokoja.jpg
+   alt: "Pokój 1"
  - src: lazienka1.jpg
    alt: "Łazienka"
    portrait: true
@@ -28,10 +28,10 @@ images:
    alt: "Korytarz"
  - src: balkon.jpg
    alt: "Balkon"
- - src: widok.jpg
-   alt: "Widok z balkonu"
  - src: budynek.jpg
    alt: "Budynek"
+ - src: widok.jpg
+   alt: "Widok z balkonu"
 resolutions:
  - 3000
  - 1920
