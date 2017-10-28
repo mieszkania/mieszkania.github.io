@@ -66,7 +66,7 @@ duże AGD. Mieszkanie jest gotowe do wynajęcia i zamieszkania **od zaraz**.
 Wynajem **bezpośrednio** od właściciela. **{{ page.price }} zł / mc**{:.nobr} +
 koszty eksploatacji. Telefon: [**602 890
 010**{:.nobr}](tel:+48-602-890-010){:#tel1 .report-clicks}
-</div>{: #a-ogloszenie data-timing="18320" }
+</div>{: #a-ogloszenie data-timing="34070" }
 
 <nav>
 Skocz do:
@@ -82,7 +82,7 @@ Skocz do:
 
 <figure>
 <iframe class="gmap" src="https://www.google.com/maps/d/embed?mid=1_XJ1t5TsCboxr-fZZ4rNZpccPnk"></iframe>{: #lokalizacja}
-</figure>{: #b-lokalizacja data-timing="20350" }
+</figure>{: #b-lokalizacja data-timing="18710" }
 
 <section>
 ## Mieszkanie
@@ -99,7 +99,7 @@ Skocz do:
 * Przynależna komórka lokatorska w piwnicy
 * Przynależne **miejsce parkingowe w garażu podziemnym** (za dodatkową opłatą)
 * **Duży balkon z widokiem na Bulwary na Dąbiu i Wisłę**
-</section>{: #c-mieszkanie data-timing="27110" }
+</section>{: #c-mieszkanie data-timing="30010" }
 
 <section>
 ## Okolica
@@ -131,7 +131,7 @@ Poniższe odległości to rzeczywiste odległości przejścia lub przejazdu:
   * 2.5 km do Uniwersytetu Ekonomicznego
 * Inne
   * **2 km do Tauron Areny**
-</section>{: #d-okolica data-timing="22280" }
+</section>{: #d-okolica data-timing="38240" }
 
 <section>
 ## Opłaty
@@ -142,7 +142,7 @@ Poniższe odległości to rzeczywiste odległości przejścia lub przejazdu:
 * Centralne ogrzewanie: <span>160 zł / mc</span>{:.nobr}
 * Media **wg liczników**{:.nobr}: prąd, woda
 * Odpady komunalne
-</section>{: #e-oplaty data-timing="7080" }
+</section>{: #e-oplaty data-timing="12580" }
 
 <section>
 ## Warunki
@@ -152,21 +152,21 @@ Poniższe odległości to rzeczywiste odległości przejścia lub przejazdu:
 * Kaucja: <span>5000 zł</span>{:.nobr}
 * Zezwolenie na sprawdzenie danych w Biurze Informacji Kredytowej i Biurach
   Informacji Gospodarczej
-</section>{: #f-warunki data-timing="8910" }
+</section>{: #f-warunki data-timing="10230" }
 
 <section>
 ## Kontakt
 * Telefon: [**602 890 010**{:.nobr}](tel:+48-602-890-010){:#tel2 .report-clicks}
 * Bez pośredników, **wynajem bezpośredni**
 * [**Wyślij pytanie**](#napisz){:.report-clicks} prosto ze strony
-{: #g-kontakt data-timing="6110" data-conversions="kontakt" }
+{: #g-kontakt data-timing="7030" data-conversions="kontakt" }
 </section>
 
 <figure>
 {% include gallery.html id="zdjecia" images=page.images resolutions=page.resolutions
-%}</figure>{: #h-zdjecia data-timing="110100" }
+%}</figure>{: #h-zdjecia data-timing="44030" }
 
 <section>
 ## Wyślij pytanie
 {: #napisz}
-{% include form-wiadomosc.html %}</section>{: #i-napisz data-timing="6490" }
+{% include form-wiadomosc.html %}</section>{: #i-napisz data-timing="6050" }
