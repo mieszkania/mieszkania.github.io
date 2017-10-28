@@ -139,7 +139,7 @@ Poniższe odległości to rzeczywiste odległości przejścia lub przejazdu:
 * Odstępne: **{{ page.price }} zł / mc**{:.nobr}
 * Miejsce parkingowe w garażu podziemnym: <span>250 zł / mc</span>{:.nobr}
 * Opłaty eksploatacyjne: <span>230 zł / mc</span>{:.nobr}
-* Centralne ogrzewanie: <span>90 zł / mc</span>{:.nobr}
+* Centralne ogrzewanie: <span>160 zł / mc</span>{:.nobr}
 * Media **wg liczników**{:.nobr}: prąd, woda
 * Odpady komunalne
 </section>{: #e-oplaty data-timing="7080" }
