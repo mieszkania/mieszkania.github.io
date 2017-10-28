@@ -33,6 +33,10 @@ images:
    alt: "Budynek"
  - src: widok.jpg
    alt: "Widok z balkonu"
+ - src: plan.png
+   alt: "Plan"
+ - src: rzut.png
+   alt: "Wizualizacja"
 resolutions:
  - 3000
  - 1920
