@@ -167,7 +167,7 @@ Poniższe odległości to rzeczywiste odległości przejścia lub przejazdu:
 * Telefon: [**609 794 959**{:.nobr}](tel:+48-609-794-959){:#tel2 .report-clicks}
 * Bez pośredników, wynajem bezpośredni
 * [**Wyślij pytanie**](#napisz){:.report-clicks} prosto ze strony
-{: #g-kontakt data-timing="6110" data-conversions="kontakt" }
+{: #g-kontakt data-timing="6110" data-conversions="h10kv" }
 </section>
 
 <figure>

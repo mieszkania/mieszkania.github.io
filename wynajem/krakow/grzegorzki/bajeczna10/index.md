@@ -71,7 +71,6 @@ Wynajem **bezpośrednio** od właściciela. **{{ page.price }} zł / mc**{:.nobr
 koszty eksploatacji. Telefon: [**602 890
 010**{:.nobr}](tel:+48-602-890-010){:#tel1 .report-clicks}
 </div>{: #a-ogloszenie data-timing="34070" }
-
 <nav>
 Skocz do:
 [Lokalizacja](#lokalizacja){:.report-clicks} |
@@ -163,7 +162,7 @@ Poniższe odległości to rzeczywiste odległości przejścia lub przejazdu:
 * Telefon: [**602 890 010**{:.nobr}](tel:+48-602-890-010){:#tel2 .report-clicks}
 * Bez pośredników, **wynajem bezpośredni**
 * [**Wyślij pytanie**](#napisz){:.report-clicks} prosto ze strony
-{: #g-kontakt data-timing="7030" data-conversions="kontakt" }
+{: #g-kontakt data-timing="7030" data-conversions="b10kv" }
 </section>
 
 <figure>

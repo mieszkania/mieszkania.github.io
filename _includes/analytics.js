@@ -15,7 +15,7 @@ window.addEventListener('error', function(event) {
 
 ga('require', 'displayfeatures');
 ga('require', 'conversions', {
-  'kontakt': {
+  'h10kv': {
     'tags': [
       {
         'id': 1000094587,
@@ -26,6 +26,16 @@ ga('require', 'conversions', {
       }
     ],
     'cookie': 'h10kv',
+    'ttl': 604800,
+  },
+  'b10kv': {
+    'tags': [
+      {
+        'id': 1000094587,
+        'label': 'WfNPCNO4ingQ-_bw3AM',
+      }
+    ],
+    'cookie': 'b10kv',
     'ttl': 604800,
   },
 });
