@@ -50,7 +50,7 @@ resolutions:
 <header>
 # Mieszkanie do wynajęcia <span>Kraków Dąbie (Grzegórzki), Bajeczna 10</span>{:.sub}
 {: #ogloszenie }
-Stan: **wolne**{:.green} (aktualizacja: 27 października 2017)
+Stan: **wolne**{:.green} (aktualizacja: 9 listopada 2017)
 </header>
 
 <div>
