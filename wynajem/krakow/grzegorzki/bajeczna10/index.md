@@ -8,7 +8,7 @@ description: Wynajmę 3-pokojowe mieszkanie 70 m² na 5. piętrze nowego
   Mieszkanie w wysokim standardzie, wyposażona łazienka i kuchnia. Duży balkon
   na Bulwary na Dąbiu, widok na Wisłę. Gotowe do wynajęcia i zamieszkania od
   zaraz. Wynajem bezpośrednio od właściciela.
-price: 3300
+price: 3200
 google-site-verification: PpWhLq-MbDLowjNE06x_t6tNHytzef3k1JWsygF-NZM
 images:
  - src: salon.jpg
@@ -50,7 +50,7 @@ resolutions:
 <header>
 # Mieszkanie do wynajęcia <span>Kraków Dąbie (Grzegórzki), Bajeczna 10</span>{:.sub}
 {: #ogloszenie }
-Stan: **wolne**{:.green} (aktualizacja: 9 listopada 2017)
+Stan: **wolne**{:.green} (aktualizacja: 14 stycznia 2018)
 </header>
 
 <div>
@@ -140,7 +140,7 @@ Poniższe odległości to rzeczywiste odległości przejścia lub przejazdu:
 ## Opłaty
 {: #oplaty}
 * Odstępne: **{{ page.price }} zł / mc**{:.nobr}
-* Miejsce parkingowe w garażu podziemnym: <span>250 zł / mc</span>{:.nobr}
+* Miejsce parkingowe w garażu podziemnym: <span>200 zł / mc</span>{:.nobr}
 * Opłaty eksploatacyjne: <span>230 zł / mc</span>{:.nobr}
 * Centralne ogrzewanie: <span>160 zł / mc</span>{:.nobr}
 * Media **wg liczników**{:.nobr}: prąd, woda
