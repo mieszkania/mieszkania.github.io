@@ -68,7 +68,7 @@ Mieszkanie znajduje się na **5. piętrze** nowego apartamentowca (**winda**,
 duże AGD. Mieszkanie jest gotowe do wynajęcia i zamieszkania **od zaraz**.
 
 Wynajem **bezpośrednio** od właściciela. **{{ page.price }} zł / mc**{:.nobr} +
-koszty eksploatacji. Telefon: [**602 890
+opłaty. Telefon: [**602 890
 010**{:.nobr}](tel:+48-602-890-010){:#tel1 .report-clicks}
 </div>{: #a-ogloszenie data-timing="34070" }
 <nav>
@@ -141,7 +141,7 @@ Poniższe odległości to rzeczywiste odległości przejścia lub przejazdu:
 {: #oplaty}
 * Odstępne: **{{ page.price }} zł / mc**{:.nobr}
 * Miejsce parkingowe w garażu podziemnym: <span>200 zł / mc</span>{:.nobr}
-* Koszty eksploatacji (w tym opłaty stałe): <span>360 zł / mc</span>{:.nobr}
+* Fundusze i opłaty stałe: <span>410 zł / mc</span>{:.nobr}
 * Media **wg liczników**{:.nobr}: prąd, woda, ogrzewanie
 * Wywóz odpadów komunalnych
 </section>{: #e-oplaty data-timing="12580" }
