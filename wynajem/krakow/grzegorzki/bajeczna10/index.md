@@ -2,13 +2,13 @@
 layout: page
 lang: pl
 title: Kraków Dąbie (Grzegórzki), Bajeczna 10 - Mieszkanie do wynajęcia,
-  bezpośrednio - M4 (3 pokoje z kuchnią), nowe
+  bezpośrednio od właściciela - M4 (3 pokoje z kuchnią), nowe
 description: Wynajmę 3-pokojowe mieszkanie 70 m² na 5. piętrze nowego
   apartamentowca przy ul. Bajecznej 10 w Krakowie (Grzegórzki, Dąbie).
   Mieszkanie w wysokim standardzie, wyposażona łazienka i kuchnia. Duży balkon
   na Bulwary na Dąbiu, widok na Wisłę. Gotowe do wynajęcia i zamieszkania od
   zaraz. Wynajem bezpośrednio od właściciela.
-price: 3100
+price: 3000
 google-site-verification: PpWhLq-MbDLowjNE06x_t6tNHytzef3k1JWsygF-NZM
 images:
  - src: salon.jpg
@@ -50,7 +50,7 @@ resolutions:
 <header>
 # Mieszkanie do wynajęcia <span>Kraków Dąbie (Grzegórzki), Bajeczna 10</span>{:.sub}
 {: #ogloszenie }
-Stan: **wolne**{:.green} (aktualizacja: 11 kwietnia 2018)
+Stan: **wolne**{:.green} (aktualizacja: 8 maja 2018)
 </header>
 
 <div>
@@ -141,10 +141,9 @@ Poniższe odległości to rzeczywiste odległości przejścia lub przejazdu:
 {: #oplaty}
 * Odstępne: **{{ page.price }} zł / mc**{:.nobr}
 * Miejsce parkingowe w garażu podziemnym: <span>200 zł / mc</span>{:.nobr}
-* Opłaty eksploatacyjne: <span>230 zł / mc</span>{:.nobr}
-* Centralne ogrzewanie: <span>160 zł / mc</span>{:.nobr}
-* Media **wg liczników**{:.nobr}: prąd, woda
-* Odpady komunalne
+* Koszty eksploatacji (w tym opłaty stałe): <span>360 zł / mc</span>{:.nobr}
+* Media **wg liczników**{:.nobr}: prąd, woda, ogrzewanie
+* Wywóz odpadów komunalnych
 </section>{: #e-oplaty data-timing="12580" }
 
 <section>
@@ -152,7 +151,7 @@ Poniższe odległości to rzeczywiste odległości przejścia lub przejazdu:
 * Mieszkanie do wynajęcia od zaraz
 * Umowa przynajmniej na rok, najchętniej wynajem długoterminowy
 * Dla osób niepalących, bez zwierząt domowych
-* Kaucja: <span>5000 zł</span>{:.nobr}
+* Kaucja: <span>4500 zł</span>{:.nobr}
 * Zezwolenie na sprawdzenie danych w Biurze Informacji Kredytowej i Biurach
   Informacji Gospodarczej
 </section>{: #f-warunki data-timing="10230" }
