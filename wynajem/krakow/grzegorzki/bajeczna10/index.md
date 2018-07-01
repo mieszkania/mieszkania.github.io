@@ -50,7 +50,7 @@ resolutions:
 <header>
 # Mieszkanie do wynajęcia <span>Kraków Dąbie (Grzegórzki), Bajeczna 10</span>{:.sub}
 {: #ogloszenie }
-Stan: **wolne**{:.green} (aktualizacja: 21 czerwca 2018)
+Stan: **wolne**{:.green} (aktualizacja: 1 lipca 2018)
 </header>
 
 <div>
@@ -141,9 +141,13 @@ Poniższe odległości to rzeczywiste odległości przejścia lub przejazdu:
 {: #oplaty}
 * Odstępne: **{{ page.price }} zł / mc**{:.nobr}
 * Miejsce parkingowe w garażu podziemnym: <span>200 zł / mc</span>{:.nobr}
-* Fundusze i opłaty stałe: <span>410 zł / mc</span>{:.nobr}
-* Media **wg liczników**{:.nobr}: prąd, woda, ogrzewanie
-* Wywóz odpadów komunalnych
+  (opcjonalnie)
+* Fundusz eksploatacyjny i remontowy: <span>250 zł / mc</span>
+* Opłaty stałe za wodę i ogrzewanie: <span>100 zł / mc</span>{:.nobr}
+* Media **wg liczników**{:.nobr}: prąd,
+  woda <span>(ok. 35 zł / os. / mc)</span>{:.nobr},
+  ogrzewanie <span>(ok. 50 zł / mc)</span>{:.nobr}
+* Wywóz odpadów komunalnych <span>(ok. 15 zł / os. / mc)</span>{:.nobr}
 </section>{: #e-oplaty data-timing="12580" }
 
 <section>
