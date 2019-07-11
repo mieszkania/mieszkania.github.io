@@ -50,7 +50,7 @@ resolutions:
 <header>
 # Mieszkanie do wynajęcia <span>Kraków Dąbie (Grzegórzki), Bajeczna 10</span>{:.sub}
 {: #ogloszenie }
-Stan: **wolne od 1 września 2019**{:.green} (aktualizacja: 4 lipca 2019)
+Stan: **wolne od 1 września 2019**{:.green} (aktualizacja: 11 lipca 2019)
 </header>
 
 <div>
@@ -109,11 +109,12 @@ Skocz do:
 Poniższe odległości to rzeczywiste odległości przejścia lub przejazdu:
 
 * Komunikacja publiczna
-  * **450 m do przystanku tramwajowego Ofiar Dąbia** (linie 1, 14, 22)
+  * **450 m do przystanku tramwajowego Ofiar Dąbia** (linie 1, 14, 22 i nocna
+    62)
   * 450 m do przystanków autobusowych (linie 125, 128 i nocna 662)
   * 450 m do stacji rowerów miejskich
 * Zakupy i usługi
-  * **100 m do sklepu spożywczego Spar**
+  * **100 m do sklepu spożywczego Lewiatan**
   * 150 m do Żabki
   * 350 m do urzędu pocztowego
   * 400 m do kiosku, piekarni, sklepu mięsnego i warzywniaka
