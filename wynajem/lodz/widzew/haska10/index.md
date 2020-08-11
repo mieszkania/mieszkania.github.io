@@ -58,7 +58,7 @@ resolutions:
 <header>
 # Mieszkanie do wynajęcia <span>Łódź Widzew, Haška 10</span>{:.sub}
 {: #ogloszenie }
-Stan: **wynajęte**{:.red} (aktualizacja: 28 sierpnia 2017)
+Stan: **wolne od 1 września**{:.green} (aktualizacja: 11 sierpnia 2020)
 </header>
 
 <div>
@@ -100,7 +100,6 @@ Skocz do:
 * **3 pokoje z osobną jasną kuchnią**, łazienką, WC i pomieszczeniem
   gospodarczym, **61,6 m²**{:.nobr}
 * Drugie piętro (z czterech) w bloku z lat <span>70-tych</span>{:.nobr}
-* W doskonałym stanie, pokoje i kuchnia niedawno remontowane.
 * **Pełne wyposażenie kuchni** (kuchenka gazowa, zmywarka, lodówka,
   mikrofalówka, naczynia i sztućce)
 * **Pełne wyposażenie łazienki** (wanna z prysznicem, pralka, umywalka)
@@ -123,21 +122,21 @@ Skocz do:
 Poniższe odległości to rzeczywiste odległości przejścia lub przejazdu:
 
 * Komunikacja publiczna
-  * **350 m do przystanku tramwajowego Rondo Sybiraków** (linie 3, 8, 13)
+  * **350 m do przystanku tramwajowego Rondo Sybiraków** (linie 6, 8, 13)
   * 2 km (lub 3 przystanki tramwajowe) do stacji Łódź Widzew
 * Zakupy
   * **150 m do sklepu spożywczego** (Intermarché)
   * 300 m do Biedronki
-  * 600 m do Kauflandu
+  * 600 m do Kauflandu i Rossmanna
   * 700 m do Tesco i Domu Handlowego Batory
-  * 4 km do centrum handlowego Tulipan (Real, Castorama)
+  * 4 km do centrum handlowego Tulipan (Auchan)
 * Zdrowie i rekreacja
   * 150 m do apteki
   * **200 m do parku Górka Widzewska**
   * 650 m do centrum fitness
   * 650 m do przychodni
 * Dzieci i nauka
-  * 300 m do przedszkola, Gimnazjum nr 35 i XLVII Liceum Ogólnokształcącego
+  * 300 m do przedszkola i XLVII Liceum Ogólnokształcącego
   * 450 m do Szkoły Podstawowej im. Tuwima
   * 600 m do żłobka
 </section>{: #d-okolica data-timing="22280" }
