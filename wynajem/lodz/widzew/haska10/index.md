@@ -145,15 +145,14 @@ Poniższe odległości to rzeczywiste odległości przejścia lub przejazdu:
 ## Opłaty
 {: #oplaty}
 * Odstępne: **{{ page.price }} zł / mc**{:.nobr}
-* Opłaty stałe: <span>250 zł / mc</span>{:.nobr} (**w tym gaz**)
-* Centralne ogrzewanie: około <span>75 zł / mc</span>{:.nobr}
-* Media **wg liczników**{:.nobr}: prąd, woda
-* Odpady komunalne
+* Opłaty stałe: <span>300 zł / mc</span>{:.nobr} (**w tym gaz**)
+* Media **wg liczników**{:.nobr}: prąd, woda, CO
+* Odpady komunalne <span>24 zł / os</span>{:.nobr}
 </section>{: #e-oplaty data-timing="7080" }
 
 <section>
 ## Warunki
-* Mieszkanie do wynajęcia od zaraz
+* Mieszkanie do wynajęcia od **1 sierpnia**
 * Umowa przynajmniej na rok, najchętniej wynajem długoterminowy
 * Dla osób niepalących, bez zwierząt domowych
 * Kaucja: <span>2500 zł</span>{:.nobr}
