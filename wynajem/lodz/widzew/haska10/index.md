@@ -152,7 +152,7 @@ Poniższe odległości to rzeczywiste odległości przejścia lub przejazdu:
 
 <section>
 ## Warunki
-* Mieszkanie do wynajęcia od **1 sierpnia**
+* Mieszkanie do wynajęcia od **1 września**
 * Umowa przynajmniej na rok, najchętniej wynajem długoterminowy
 * Dla osób niepalących, bez zwierząt domowych
 * Kaucja: <span>2500 zł</span>{:.nobr}
