@@ -18,7 +18,6 @@
       div.addEventListener('click', close);
       document.body.appendChild(div);
     }, 150);
-    ga('send', 'event', 'Image', 'Open', image.src.split('/').pop());
   }
 
   window.zoom = function(element) {

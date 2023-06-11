@@ -86,8 +86,7 @@ Skocz do:
 [Opłaty](#oplaty) |
 [Warunki](#warunki) |
 [Kontakt](#kontakt) |
-[Zdjęcia](#zdjecia) |
-[Wyślij pytanie](#napisz)
+[Zdjęcia](#zdjecia)
 </nav>
 
 <figure>
