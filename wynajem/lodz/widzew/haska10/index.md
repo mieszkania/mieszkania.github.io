@@ -76,24 +76,24 @@ komórka lokatorska w piwnicy. **Kino domowe**, telewizja kablowa i **internet
 
 Wynajem **bezpośrednio** od właściciela. **{{ page.price }} zł / mc**{:.nobr} +
 koszty eksploatacji. Telefon: [**609 794
-959**{:.nobr}](tel:+48-609-794-959){:#tel1 .report-clicks}
-</div>{: #a-ogloszenie data-timing="18320" }
+959**{:.nobr}](tel:+48-609-794-959)
+</div>{: #a-ogloszenie }
 
 <nav>
 Skocz do:
-[Lokalizacja](#lokalizacja){:.report-clicks} |
-[Mieszkanie](#mieszkanie){:.report-clicks} |
-[Okolica](#okolica){:.report-clicks} |
-[Opłaty](#oplaty){:.report-clicks} |
-[Warunki](#warunki){:.report-clicks} |
-[Kontakt](#kontakt){:.report-clicks} |
-[Zdjęcia](#zdjecia){:.report-clicks} |
-[Wyślij pytanie](#napisz){:.report-clicks}
+[Lokalizacja](#lokalizacja) |
+[Mieszkanie](#mieszkanie) |
+[Okolica](#okolica) |
+[Opłaty](#oplaty) |
+[Warunki](#warunki) |
+[Kontakt](#kontakt) |
+[Zdjęcia](#zdjecia) |
+[Wyślij pytanie](#napisz)
 </nav>
 
 <figure>
 <iframe class="gmap" src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJWYdw7qzMG0cR1EDZvZ-BzRc&key=AIzaSyBawQgY87ZUOa4Qw1lohNAUKpmHt0gxkVs"></iframe>{: #lokalizacja}
-</figure>{: #b-lokalizacja data-timing="20350" }
+</figure>{: #b-lokalizacja }
 
 <section>
 ## Mieszkanie
@@ -115,7 +115,7 @@ Skocz do:
 * Przynależna komórka w piwnicy, domofon przy wejściu
 * Miejsca parkingowe pod blokiem, parking strzeżony niedaleko
 * Balkon z widokiem na obszar zieleni i panoramę miasta
-</section>{: #c-mieszkanie data-timing="27110" }
+</section>{: #c-mieszkanie }
 
 <section>
 ## Okolica
@@ -139,7 +139,7 @@ Poniższe odległości to rzeczywiste odległości przejścia lub przejazdu:
   * 300 m do przedszkola i XLVII Liceum Ogólnokształcącego
   * 450 m do Szkoły Podstawowej im. Tuwima
   * 600 m do żłobka
-</section>{: #d-okolica data-timing="22280" }
+</section>{: #d-okolica }
 
 <section>
 ## Opłaty
@@ -148,7 +148,7 @@ Poniższe odległości to rzeczywiste odległości przejścia lub przejazdu:
 * Opłaty stałe: <span>300 zł / mc</span>{:.nobr} (**w tym gaz**)
 * Media **wg liczników**{:.nobr}: prąd, woda, CO
 * Odpady komunalne <span>24 zł / os</span>{:.nobr}
-</section>{: #e-oplaty data-timing="7080" }
+</section>{: #e-oplaty }
 
 <section>
 ## Warunki
@@ -158,21 +158,14 @@ Poniższe odległości to rzeczywiste odległości przejścia lub przejazdu:
 * Kaucja: <span>2500 zł</span>{:.nobr}
 * Zezwolenie na sprawdzenie danych w Biurze Informacji Kredytowej i Biurach
   Informacji Gospodarczej
-</section>{: #f-warunki data-timing="8910" }
+</section>{: #f-warunki }
 
 <section>
 ## Kontakt
-* Telefon: [**609 794 959**{:.nobr}](tel:+48-609-794-959){:#tel2 .report-clicks}
+* Telefon: [**609 794 959**{:.nobr}](tel:+48-609-794-959)
 * Bez pośredników, wynajem bezpośredni
-* [**Wyślij pytanie**](#napisz){:.report-clicks} prosto ze strony
-{: #g-kontakt data-timing="6110" data-conversions="h10kv" }
-</section>
+</section>{: #g-kontakt }
 
 <figure>
 {% include gallery.html id="zdjecia" images=page.images resolutions=page.resolutions
-%}</figure>{: #h-zdjecia data-timing="110100" }
-
-<section>
-## Wyślij pytanie
-{: #napisz}
-{% include form-wiadomosc.html %}</section>{: #i-napisz data-timing="6490" }
+%}</figure>{: #h-zdjecia }

@@ -69,23 +69,23 @@ duże AGD. Mieszkanie jest gotowe do wynajęcia i zamieszkania **od 1 września*
 
 Wynajem **bezpośrednio** od właściciela. **{{ page.price }} zł / mc**{:.nobr} +
 opłaty. Telefon: [**602 890
-010**{:.nobr}](tel:+48-602-890-010){:#tel1 .report-clicks}
-</div>{: #a-ogloszenie data-timing="34070" }
+010**{:.nobr}](tel:+48-602-890-010)
+</div>{: #a-ogloszenie }
 <nav>
 Skocz do:
-[Lokalizacja](#lokalizacja){:.report-clicks} |
-[Mieszkanie](#mieszkanie){:.report-clicks} |
-[Okolica](#okolica){:.report-clicks} |
-[Opłaty](#oplaty){:.report-clicks} |
-[Warunki](#warunki){:.report-clicks} |
-[Kontakt](#kontakt){:.report-clicks} |
-[Zdjęcia](#zdjecia){:.report-clicks} |
-[Wyślij pytanie](#napisz){:.report-clicks}
+[Lokalizacja](#lokalizacja) |
+[Mieszkanie](#mieszkanie) |
+[Okolica](#okolica) |
+[Opłaty](#oplaty) |
+[Warunki](#warunki) |
+[Kontakt](#kontakt) |
+[Zdjęcia](#zdjecia) |
+[Wyślij pytanie](#napisz)
 </nav>
 
 <figure>
 <iframe class="gmap" src="https://www.google.com/maps/d/embed?mid=1_XJ1t5TsCboxr-fZZ4rNZpccPnk"></iframe>{: #lokalizacja}
-</figure>{: #b-lokalizacja data-timing="18710" }
+</figure>{: #b-lokalizacja }
 
 <section>
 ## Mieszkanie
@@ -102,7 +102,7 @@ Skocz do:
 * Przynależna komórka lokatorska w piwnicy
 * Przynależne **miejsce parkingowe w garażu podziemnym** (wynajmowane osobno)
 * **Duży balkon z widokiem na Bulwary na Dąbiu i Wisłę**
-</section>{: #c-mieszkanie data-timing="30010" }
+</section>{: #c-mieszkanie }
 
 <section>
 ## Okolica
@@ -135,7 +135,7 @@ Poniższe odległości to rzeczywiste odległości przejścia lub przejazdu:
   * 2.5 km do Uniwersytetu Ekonomicznego
 * Inne
   * **2 km do Tauron Areny**
-</section>{: #d-okolica data-timing="38240" }
+</section>{: #d-okolica }
 
 <section>
 ## Opłaty
@@ -149,7 +149,7 @@ Poniższe odległości to rzeczywiste odległości przejścia lub przejazdu:
   woda <span>(zaliczka 70 zł / os. / mc)</span>{:.nobr},
   ogrzewanie <span>(zaliczka 90 zł / mc)</span>{:.nobr}
 * Wywóz odpadów komunalnych <span>(ok. 15 zł / os. / mc)</span>{:.nobr}
-</section>{: #e-oplaty data-timing="12580" }
+</section>{: #e-oplaty }
 
 <section>
 ## Warunki
@@ -159,21 +159,14 @@ Poniższe odległości to rzeczywiste odległości przejścia lub przejazdu:
 * Kaucja: <span>3000 zł</span>{:.nobr}
 * Zezwolenie na sprawdzenie danych w Biurze Informacji Kredytowej i Biurach
   Informacji Gospodarczej
-</section>{: #f-warunki data-timing="10230" }
+</section>{: #f-warunki }
 
 <section>
 ## Kontakt
-* Telefon: [**602 890 010**{:.nobr}](tel:+48-602-890-010){:#tel2 .report-clicks}
+* Telefon: [**602 890 010**{:.nobr}](tel:+48-602-890-010)
 * Bez pośredników, **wynajem bezpośredni**
-* [**Wyślij pytanie**](#napisz){:.report-clicks} prosto ze strony
-{: #g-kontakt data-timing="7030" data-conversions="b10kv" }
-</section>
+</section>{: #g-kontakt }
 
 <figure>
 {% include gallery.html id="zdjecia" images=page.images resolutions=page.resolutions
-%}</figure>{: #h-zdjecia data-timing="44030" }
-
-<section>
-## Wyślij pytanie
-{: #napisz}
-{% include form-wiadomosc.html %}</section>{: #i-napisz data-timing="6050" }
+%}</figure>{: #h-zdjecia }
