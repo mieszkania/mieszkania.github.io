@@ -5,8 +5,8 @@ title: Łódź Widzew, Haška 10 - Mieszkanie do wynajęcia, bezpośrednio - M4
   (3 pokoje z kuchnią), umeblowane i wyposażone
 description: Wynajmę 3-pokojowe mieszkanie 61,6 m² na 2. piętrze bloku przy
   Haška 10 w Łodzi (Widzew). Mieszkanie w pełni umeblowane i wyposażone. Gotowe
-  do wynajęcia i zamieszkania od zaraz. Wynajem bezpośrednio od właściciela.
-price: 1600
+  do wynajęcia i zamieszkania od 1 lipca. Wynajem bezpośrednio od właściciela.
+price: 2400
 google-site-verification: PpWhLq-MbDLowjNE06x_t6tNHytzef3k1JWsygF-NZM
 images:
  - src: salon1.jpg
@@ -58,7 +58,7 @@ resolutions:
 <header>
 # Mieszkanie do wynajęcia <span>Łódź Widzew, Haška 10</span>{:.sub}
 {: #ogloszenie }
-Stan: **wolne od 1 września**{:.green} (aktualizacja: 11 sierpnia 2020)
+Stan: **wolne od 1 lipca**{:.green} (aktualizacja: 11 czerwca 2023)
 </header>
 
 <div>
@@ -75,8 +75,7 @@ komórka lokatorska w piwnicy. **Kino domowe**, telewizja kablowa i **internet
 światłowodowy**. Parking pod blokiem. Balkon z szerokim widokiem.
 
 Wynajem **bezpośrednio** od właściciela. **{{ page.price }} zł / mc**{:.nobr} +
-koszty eksploatacji. Telefon: [**609 794
-959**{:.nobr}](tel:+48-609-794-959)
+koszty eksploatacji. Telefon: [**609 794 959**{:.nobr}](tel:+48-609-794-959)
 </div>{: #a-ogloszenie }
 
 <nav>
@@ -155,7 +154,7 @@ Poniższe odległości to rzeczywiste odległości przejścia lub przejazdu:
 * Mieszkanie do wynajęcia od **1 września**
 * Umowa przynajmniej na rok, najchętniej wynajem długoterminowy
 * Dla osób niepalących, bez zwierząt domowych
-* Kaucja: <span>2500 zł</span>{:.nobr}
+* Kaucja: <span>3600 zł</span>{:.nobr}
 * Zezwolenie na sprawdzenie danych w Biurze Informacji Kredytowej i Biurach
   Informacji Gospodarczej
 </section>{: #f-warunki }
