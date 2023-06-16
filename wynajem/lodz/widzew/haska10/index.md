@@ -58,7 +58,7 @@ resolutions:
 <header>
 # Mieszkanie do wynajęcia <span>Łódź Widzew, Haška 10</span>{:.sub}
 {: #ogloszenie }
-Stan: **wolne od 1 lipca**{:.green} (aktualizacja: 11 czerwca 2023)
+Stan: **wolne od 1 lipca**{:.green} (aktualizacja: 16 czerwca 2023)
 </header>
 
 <div>
@@ -120,14 +120,13 @@ Skocz do:
 Poniższe odległości to rzeczywiste odległości przejścia lub przejazdu:
 
 * Komunikacja publiczna
-  * **350 m do przystanku tramwajowego Rondo Sybiraków** (linie 6, 8, 13)
-  * 2 km (lub 3 przystanki tramwajowe) do stacji Łódź Widzew
+  * **350 m do przystanku tramwajowego Rondo Sybiraków** (linie 8A, 8B)
+  * 2 km (lub 3 przystanki tramwajowe) do stacji kolejowej Łódź Widzew
 * Zakupy
-  * **150 m do sklepu spożywczego** (Intermarché)
-  * 300 m do Biedronki
+  * **300 m do sklepu spożywczego** (Biedronka i Żabka)
   * 600 m do Kauflandu i Rossmanna
-  * 700 m do Tesco i Domu Handlowego Batory
-  * 4 km do centrum handlowego Tulipan (Auchan)
+  * 700 m do rynku i pawilonów handlowych Batory
+  * 4 km do centrum handlowego Tulipan (Auchan i Castorama)
 * Zdrowie i rekreacja
   * 150 m do apteki
   * **200 m do parku Górka Widzewska**
@@ -144,13 +143,15 @@ Poniższe odległości to rzeczywiste odległości przejścia lub przejazdu:
 {: #oplaty}
 * Odstępne: **{{ page.price }} zł / mc**{:.nobr}
 * Opłaty stałe: <span>300 zł / mc</span>{:.nobr} (**w tym gaz**)
-* Media **wg liczników**{:.nobr}: prąd, woda, CO
-* Odpady komunalne <span>24 zł / os</span>{:.nobr}
+* Media **wg liczników**{:.nobr}: <span>prąd (ok. 25 zł / os / mc)</span>{:.nobr},
+  <span>woda (ok. 50 zł / os / mc)</span>{:.nobr}, <span>CO
+  (ok. 50 zł / mc)</span>{:.nobr}
+* Odpady komunalne <span>ok. 25 zł / os / mc</span>{:.nobr}
 </section>{: #e-oplaty }
 
 <section>
 ## Warunki
-* Mieszkanie do wynajęcia od **1 września**
+* Mieszkanie do wynajęcia od **1 lipca**
 * Umowa przynajmniej na rok, najchętniej wynajem długoterminowy
 * Dla osób niepalących, bez zwierząt domowych
 * Kaucja: <span>3600 zł</span>{:.nobr}
