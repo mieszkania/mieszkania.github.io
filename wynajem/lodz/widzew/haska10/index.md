@@ -58,18 +58,18 @@ resolutions:
 <header>
 # Mieszkanie do wynajęcia <span>Łódź Widzew, Haška 10</span>{:.sub}
 {: #ogloszenie }
-Stan: **wolne od 1 lipca**{:.green} (aktualizacja: 16 czerwca 2023)
+Stan: **wolne od 1 lipca**{:.green} (aktualizacja: 19 czerwca 2023)
 </header>
 
 <div>
 Wynajmę **3-pokojowe**{:.nobr} mieszkanie z kuchnią (M4) o powierzchni **61,6
-m²**{:.nobr}, położone na **osiedlu im. Stefana Batorego** w Łodzi (Widzew
-Wschód), niedaleko **parku Widzewska Górka**. Mieszkanie znajduje się na **2.
+m²**{:.nobr}, położone na **osiedlu im. Stefana Batorego** w Łodzi (Widzew),
+niedaleko **parku Widzewska Górka**. Mieszkanie znajduje się na **2.
 piętrze**{:.nobr} <span>4-piętrowego</span>{:.nobr} bloku przy ulicy **Haška
 10**{:.nobr}. Świetna lokalizacja na Widzewie, szybki dojazd do Śródmieścia.
 
 Wynajmowane mieszkanie jest w doskonałym stanie, **w pełni umeblowane i
-wyposażone**, gotowe do wynajęcia i zamieszkania od zaraz. Trzy jasne pokoje,
+wyposażone**, gotowe do wynajęcia i zamieszkania od 1 lipca. Trzy jasne pokoje,
 **niezależna kuchnia i WC**, dodatkowe pomieszczenie gospodarcze w mieszkaniu i
 komórka lokatorska w piwnicy. **Kino domowe**, telewizja kablowa i **internet
 światłowodowy**. Parking pod blokiem. Balkon z szerokim widokiem.
@@ -143,9 +143,10 @@ Poniższe odległości to rzeczywiste odległości przejścia lub przejazdu:
 {: #oplaty}
 * Odstępne: **{{ page.price }} zł / mc**{:.nobr}
 * Opłaty stałe: <span>300 zł / mc</span>{:.nobr} (**w tym gaz**)
-* Media **wg liczników**{:.nobr}: <span>prąd (ok. 25 zł / os / mc)</span>{:.nobr},
-  <span>woda (ok. 50 zł / os / mc)</span>{:.nobr}, <span>CO
-  (ok. 50 zł / mc)</span>{:.nobr}
+* Media **wg liczników**{:.nobr}:
+  <span>prąd (ok. 25 zł / os / mc)</span>{:.nobr},
+  <span>woda (ok. 50 zł / os / mc)</span>{:.nobr},
+  <span>CO (ok. 50 zł / mc)</span>{:.nobr}
 * Odpady komunalne <span>ok. 25 zł / os / mc</span>{:.nobr}
 </section>{: #e-oplaty }
 
