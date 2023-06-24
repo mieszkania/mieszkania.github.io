@@ -3,7 +3,7 @@ layout: page
 lang: pl
 title: Kraków Dąbie (Grzegórzki), Bajeczna 10 - Mieszkanie do wynajęcia,
   bezpośrednio od właściciela - M4 (3 pokoje z kuchnią)
-description: Wynajmę 3-pokojowe mieszkanie 70 m² na 5. piętrze nowego
+description: Wynajmę 3-pokojowe mieszkanie 70 m² na 5. piętrze nowoczesnego
   apartamentowca przy ul. Bajecznej 10 w Krakowie (Grzegórzki, Dąbie).
   Mieszkanie w wysokim standardzie, wyposażona łazienka i kuchnia. Duży balkon
   na Bulwary na Dąbiu, widok na Wisłę. Gotowe do wynajęcia i zamieszkania od
@@ -50,7 +50,7 @@ resolutions:
 <header>
 # Mieszkanie do wynajęcia <span>Kraków Dąbie (Grzegórzki), Bajeczna 10</span>{:.sub}
 {: #ogloszenie }
-Stan: **wolne od 1 lipca**{:.green} (aktualizacja: 11 czerwca 2023)
+Stan: **wolne od 1 lipca**{:.green} (aktualizacja: 24 czerwca 2023)
 </header>
 
 <div>
@@ -65,7 +65,7 @@ Mieszkanie znajduje się na **5. piętrze** apartamentowca z 2017 roku (**winda*
 **widok na Wisłę**. Wnętrze jest urządzone **w wysokim standardzie**
 (ceramika, granit, marmur, sprzęt AGD z górej półki marki **Bosch**),
 łazienka oraz **niezależna kuchnia** są w pełni umeblowane i wyposażone w
-duże AGD. Mieszkanie jest gotowe do wynajęcia i zamieszkania **od 1 września**.
+duże AGD. Mieszkanie jest gotowe do wynajęcia i zamieszkania **od 1 lipca**.
 
 Wynajem **bezpośrednio** od właściciela. **{{ page.price }} zł / mc**{:.nobr} +
 opłaty. Telefon: [**602 890 010**{:.nobr}](tel:+48-602-890-010)
@@ -109,8 +109,7 @@ Poniższe odległości to rzeczywiste odległości przejścia lub przejazdu:
 * Komunikacja publiczna
   * **450 m do przystanku tramwajowego Ofiar Dąbia** (linie 1, 14, 22 i nocna
     62)
-  * 450 m do przystanków autobusowych (linie 125, 128 i nocna 662)
-  * 450 m do stacji rowerów miejskich
+  * 450 m do przystanków autobusowych (linie 128 i nocna 662)
 * Zakupy i usługi
   * **100 m do sklepu spożywczego Lewiatan**
   * 150 m do Żabki
@@ -141,19 +140,19 @@ Poniższe odległości to rzeczywiste odległości przejścia lub przejazdu:
 * Odstępne: **{{ page.price }} zł / mc**{:.nobr}
 * Miejsce parkingowe w garażu podziemnym: <span>350 zł / mc</span>{:.nobr}
   (opcjonalnie)
-* Fundusz eksploatacyjny i remontowy: <span>200 zł / mc</span>
+* Fundusz eksploatacyjny i remontowy: <span>250 zł / mc</span>
 * Opłaty stałe za wodę i ogrzewanie: <span>100 zł / mc</span>{:.nobr}
 * Media **wg liczników**{:.nobr}: prąd,
   woda <span>(zaliczka 70 zł / os. / mc)</span>{:.nobr},
-  ogrzewanie <span>(zaliczka 90 zł / mc)</span>{:.nobr}
-* Wywóz odpadów komunalnych <span>(ok. 15 zł / os. / mc)</span>{:.nobr}
+  ogrzewanie <span>(zaliczka 30 zł / mc)</span>{:.nobr}
+* Wywóz odpadów komunalnych <span>(27 zł / os. / mc)</span>{:.nobr}
 </section>{: #e-oplaty }
 
 <section>
 ## Warunki
-* Mieszkanie do wynajęcia od 1 września 2019
+* Mieszkanie do wynajęcia od 1 lipca 2023
 * Umowa przynajmniej na rok, najchętniej wynajem długoterminowy
-* Dla osób niepalących, bez zwierząt domowych
+* Dla osób niepalących
 * Kaucja: <span>5700 zł</span>{:.nobr}
 * Zezwolenie na sprawdzenie danych w Biurze Informacji Kredytowej i Biurach
   Informacji Gospodarczej
