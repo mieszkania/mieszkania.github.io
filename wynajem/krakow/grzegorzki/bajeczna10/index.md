@@ -7,7 +7,7 @@ description: Wynajmę 3-pokojowe mieszkanie 70 m² na 5. piętrze nowoczesnego
   apartamentowca przy ul. Bajecznej 10 w Krakowie (Grzegórzki, Dąbie).
   Mieszkanie w wysokim standardzie, wyposażona łazienka i kuchnia. Duży balkon
   na Bulwary na Dąbiu, widok na Wisłę. Gotowe do wynajęcia i zamieszkania od
-  1 lipca. Wynajem bezpośrednio od właściciela.
+  10 lipca. Wynajem bezpośrednio od właściciela.
 price: 3800
 google-site-verification: PpWhLq-MbDLowjNE06x_t6tNHytzef3k1JWsygF-NZM
 images:
@@ -50,7 +50,7 @@ resolutions:
 <header>
 # Mieszkanie do wynajęcia <span>Kraków Dąbie (Grzegórzki), Bajeczna 10</span>{:.sub}
 {: #ogloszenie }
-Stan: **wolne od 1 lipca**{:.green} (aktualizacja: 24 czerwca 2023)
+Stan: **wolne od 10 lipca**{:.green} (aktualizacja: 25 czerwca 2023)
 </header>
 
 <div>
@@ -65,7 +65,7 @@ Mieszkanie znajduje się na **5. piętrze** apartamentowca z 2017 roku (**winda*
 **widok na Wisłę**. Wnętrze jest urządzone **w wysokim standardzie**
 (ceramika, granit, marmur, sprzęt AGD z górej półki marki **Bosch**),
 łazienka oraz **niezależna kuchnia** są w pełni umeblowane i wyposażone w
-duże AGD. Mieszkanie jest gotowe do wynajęcia i zamieszkania **od 1 lipca**.
+duże AGD. Mieszkanie jest gotowe do wynajęcia i zamieszkania **od 10 lipca**.
 
 Wynajem **bezpośrednio** od właściciela. **{{ page.price }} zł / mc**{:.nobr} +
 opłaty. Telefon: [**602 890 010**{:.nobr}](tel:+48-602-890-010)
@@ -150,7 +150,7 @@ Poniższe odległości to rzeczywiste odległości przejścia lub przejazdu:
 
 <section>
 ## Warunki
-* Mieszkanie do wynajęcia od 1 lipca 2023
+* Mieszkanie do wynajęcia od 10 lipca 2023
 * Umowa przynajmniej na rok, najchętniej wynajem długoterminowy
 * Dla osób niepalących
 * Kaucja: <span>5700 zł</span>{:.nobr}
