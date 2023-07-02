@@ -5,7 +5,7 @@ title: Łódź Widzew, Haška 10 - Mieszkanie do wynajęcia, bezpośrednio - M4
   (3 pokoje z kuchnią), umeblowane i wyposażone
 description: Wynajmę 3-pokojowe mieszkanie 61,6 m² na 2. piętrze bloku przy
   Haška 10 w Łodzi (Widzew). Mieszkanie w pełni umeblowane i wyposażone. Gotowe
-  do wynajęcia i zamieszkania od 1 lipca. Wynajem bezpośrednio od właściciela.
+  do wynajęcia i zamieszkania od zaraz. Wynajem bezpośrednio od właściciela.
 price: 2400
 google-site-verification: PpWhLq-MbDLowjNE06x_t6tNHytzef3k1JWsygF-NZM
 images:
@@ -58,7 +58,7 @@ resolutions:
 <header>
 # Mieszkanie do wynajęcia <span>Łódź Widzew, Haška 10</span>{:.sub}
 {: #ogloszenie }
-Stan: **wolne od 1 lipca**{:.green} (aktualizacja: 19 czerwca 2023)
+Stan: **wolne od zaraz**{:.green} (aktualizacja: 2 lipca 2023)
 </header>
 
 <div>
@@ -69,10 +69,10 @@ piętrze**{:.nobr} <span>4-piętrowego</span>{:.nobr} bloku przy ulicy **Haška
 10**{:.nobr}. Świetna lokalizacja na Widzewie, szybki dojazd do Śródmieścia.
 
 Wynajmowane mieszkanie jest w doskonałym stanie, **w pełni umeblowane i
-wyposażone**, gotowe do wynajęcia i zamieszkania od 1 lipca. Trzy jasne pokoje,
-**niezależna kuchnia i WC**, dodatkowe pomieszczenie gospodarcze w mieszkaniu i
-komórka lokatorska w piwnicy. **Kino domowe**, telewizja kablowa i **internet
-światłowodowy**. Parking pod blokiem. Balkon z szerokim widokiem.
+wyposażone**, gotowe do wynajęcia i zamieszkania **od zaraz**. Trzy jasne
+pokoje, **niezależna kuchnia i WC**, dodatkowe pomieszczenie gospodarcze w
+mieszkaniu i komórka lokatorska w piwnicy. **Kino domowe**, telewizja kablowa i
+**internet światłowodowy**. Parking pod blokiem. Balkon z szerokim widokiem.
 
 Wynajem **bezpośrednio** od właściciela. **{{ page.price }} zł / mc**{:.nobr} +
 koszty eksploatacji. Telefon: [**609 794 959**{:.nobr}](tel:+48-609-794-959)
@@ -152,7 +152,7 @@ Poniższe odległości to rzeczywiste odległości przejścia lub przejazdu:
 
 <section>
 ## Warunki
-* Mieszkanie do wynajęcia od **1 lipca**
+* Mieszkanie do wynajęcia od zaraz
 * Umowa przynajmniej na rok, najchętniej wynajem długoterminowy
 * Dla osób niepalących, bez zwierząt domowych
 * Kaucja: <span>3600 zł</span>{:.nobr}
