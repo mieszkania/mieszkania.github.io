@@ -98,7 +98,7 @@ Skocz do:
 * Drugie piętro (z czterech) w bloku z lat <span>70-tych</span>{:.nobr}
 * **Pełne wyposażenie kuchni** (kuchenka gazowa, zmywarka, lodówka,
   mikrofalówka, naczynia i sztućce)
-* **Pełne wyposażenie łazienki** (wanna z prysznicem, pralka, umywalka)
+* **Pełne wyposażenie łazienki** (prysznic, umywalka, pralka, szafki)
   i WC (toaleta z umywalką)
 * **W pełni umeblowane pokoje** (kino domowe, fotele, stoły, wersalki, szafy,
   regały, dywany, zasłony)
