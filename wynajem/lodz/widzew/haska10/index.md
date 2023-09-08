@@ -25,12 +25,8 @@ images:
    alt: "Pokój 2"
  - src: pokojb2.jpg
    alt: "Pokój 2"
- - src: lazienka.jpg
-   alt: "Łazienka"
-   portrait: true
- - src: wc.jpg
-   alt: "WC"
-   portrait: true
+ - src: nowa-lazienka-wc.jpg
+   alt: "Łazienka i WC"
  - src: kuchnia1.jpg
    alt: "Kuchnia"
  - src: kuchnia3.jpg
@@ -58,7 +54,7 @@ resolutions:
 <header>
 # Mieszkanie do wynajęcia <span>Łódź Widzew, Haška 10</span>{:.sub}
 {: #ogloszenie }
-Stan: **wolne od zaraz**{:.green} (aktualizacja: 2 lipca 2023)
+Stan: **wolne od 13 września**{:.green} (aktualizacja: 8 września 2023)
 </header>
 
 <div>
@@ -68,11 +64,13 @@ niedaleko **parku Widzewska Górka**. Mieszkanie znajduje się na **2.
 piętrze**{:.nobr} <span>4-piętrowego</span>{:.nobr} bloku przy ulicy **Haška
 10**{:.nobr}. Świetna lokalizacja na Widzewie, szybki dojazd do Śródmieścia.
 
-Wynajmowane mieszkanie jest w doskonałym stanie, **w pełni umeblowane i
-wyposażone**, gotowe do wynajęcia i zamieszkania **od zaraz**. Trzy jasne
-pokoje, **niezależna kuchnia i WC**, dodatkowe pomieszczenie gospodarcze w
-mieszkaniu i komórka lokatorska w piwnicy. **Kino domowe**, telewizja kablowa i
-**internet światłowodowy**. Parking pod blokiem. Balkon z szerokim widokiem.
+Wynajmowane mieszkanie jest w doskonałym stanie, **łazienka i WC są świeżo po
+remoncie**, sprzęt AGD był niedawno wymieniany. Mieszkanie jest **w pełni
+umeblowane i wyposażone**, gotowe do wynajęcia i zamieszkania **od 13 września**.
+Trzy jasne pokoje, **niezależna kuchnia i WC**, dodatkowe pomieszczenie
+gospodarcze w mieszkaniu i komórka lokatorska w piwnicy. **Kino domowe**,
+telewizja kablowa i **internet światłowodowy**. Parking pod blokiem. Balkon z
+szerokim widokiem.
 
 Wynajem **bezpośrednio** od właściciela. **{{ page.price }} zł / mc**{:.nobr} +
 koszty eksploatacji. Telefon: [**609 794 959**{:.nobr}](tel:+48-609-794-959)
