@@ -6,7 +6,7 @@ title: Łódź Widzew, Haška 10 - Mieszkanie do wynajęcia, bezpośrednio - M4
 description: Wynajmę 3-pokojowe mieszkanie 61,6 m² na 2. piętrze bloku przy
   Haška 10 w Łodzi (Widzew). Mieszkanie w pełni umeblowane i wyposażone. Gotowe
   do wynajęcia i zamieszkania od zaraz. Wynajem bezpośrednio od właściciela.
-price: 2400
+price: 2300
 google-site-verification: PpWhLq-MbDLowjNE06x_t6tNHytzef3k1JWsygF-NZM
 images:
  - src: salon1.jpg
@@ -54,7 +54,7 @@ resolutions:
 <header>
 # Mieszkanie do wynajęcia <span>Łódź Widzew, Haška 10</span>{:.sub}
 {: #ogloszenie }
-Stan: **wolne od 13 września**{:.green} (aktualizacja: 8 września 2023)
+Stan: **wolne od zaraz**{:.green} (aktualizacja: 17 listopada 2023)
 </header>
 
 <div>
@@ -66,7 +66,7 @@ piętrze**{:.nobr} <span>4-piętrowego</span>{:.nobr} bloku przy ulicy **Haška
 
 Wynajmowane mieszkanie jest w doskonałym stanie, **łazienka i WC są świeżo po
 remoncie**, sprzęt AGD był niedawno wymieniany. Mieszkanie jest **w pełni
-umeblowane i wyposażone**, gotowe do wynajęcia i zamieszkania **od 13 września**.
+umeblowane i wyposażone**, gotowe do wynajęcia i zamieszkania **od zaraz**.
 Trzy jasne pokoje, **niezależna kuchnia i WC**, dodatkowe pomieszczenie
 gospodarcze w mieszkaniu i komórka lokatorska w piwnicy. **Kino domowe**,
 telewizja kablowa i **internet światłowodowy**. Parking pod blokiem. Balkon z
@@ -140,12 +140,10 @@ Poniższe odległości to rzeczywiste odległości przejścia lub przejazdu:
 ## Opłaty
 {: #oplaty}
 * Odstępne: **{{ page.price }} zł / mc**{:.nobr}
-* Opłaty stałe: <span>300 zł / mc</span>{:.nobr} (**w tym gaz**)
+* Opłaty: <span>500 zł / mc</span>{:.nobr} (**w tym gaz**)
 * Media **wg liczników**{:.nobr}:
   <span>prąd (ok. 25 zł / os / mc)</span>{:.nobr},
   <span>woda (ok. 50 zł / os / mc)</span>{:.nobr},
-  <span>CO (ok. 50 zł / mc)</span>{:.nobr}
-* Odpady komunalne <span>ok. 25 zł / os / mc</span>{:.nobr}
 </section>{: #e-oplaty }
 
 <section>
