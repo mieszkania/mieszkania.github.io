@@ -8,7 +8,7 @@ description: Wynajmę 3-pokojowe mieszkanie 70 m² na 5. piętrze nowoczesnego
   Mieszkanie w wysokim standardzie, wyposażona łazienka i kuchnia. Duży balkon
   na Bulwary na Dąbiu, widok na Wisłę. Gotowe do wynajęcia i zamieszkania od
   zaraz. Wynajem bezpośrednio od właściciela.
-price: 4100
+price: 4300
 google-site-verification: PpWhLq-MbDLowjNE06x_t6tNHytzef3k1JWsygF-NZM
 images:
  - src: salon.jpg
@@ -137,7 +137,7 @@ Poniższe odległości to rzeczywiste odległości przejścia lub przejazdu:
 ## Opłaty
 {: #oplaty}
 * Odstępne: **{{ page.price }} zł / mc**{:.nobr}
-* Miejsce parkingowe w garażu podziemnym: <span>400 zł / mc</span>{:.nobr}
+* Miejsce parkingowe w garażu podziemnym: <span>300 zł / mc</span>{:.nobr}
   (opcjonalnie)
 * Fundusz eksploatacyjny i remontowy: <span>400 zł / mc</span>
 * Opłaty stałe za wodę i ogrzewanie: <span>150 zł / mc</span>{:.nobr}
