@@ -8,7 +8,7 @@ description: Wynajmę 3-pokojowe mieszkanie 70 m² na 5. piętrze nowoczesnego
   Mieszkanie w wysokim standardzie, wyposażona łazienka i kuchnia. Duży balkon
   na Bulwary na Dąbiu, widok na Wisłę. Gotowe do wynajęcia i zamieszkania od
   zaraz. Wynajem bezpośrednio od właściciela.
-price: 3800
+price: 4100
 google-site-verification: PpWhLq-MbDLowjNE06x_t6tNHytzef3k1JWsygF-NZM
 images:
  - src: salon.jpg
@@ -50,7 +50,7 @@ resolutions:
 <header>
 # Mieszkanie do wynajęcia <span>Kraków Dąbie (Grzegórzki), Bajeczna 10</span>{:.sub}
 {: #ogloszenie }
-Stan: **wynajęte**{:.red} (aktualizacja: 2 lipca 2023)
+Stan: **wolne**{:.green} (aktualizacja: 21 kwietnia 2026)
 </header>
 
 <div>
@@ -65,7 +65,7 @@ Mieszkanie znajduje się na **5. piętrze** apartamentowca z 2017 roku (**winda*
 **widok na Wisłę**. Wnętrze jest urządzone **w wysokim standardzie**
 (ceramika, granit, marmur, sprzęt AGD z górej półki marki **Bosch**),
 łazienka oraz **niezależna kuchnia** są w pełni umeblowane i wyposażone w
-duże AGD. Mieszkanie jest gotowe do wynajęcia i zamieszkania **od zaraz**.
+duże AGD. Mieszkanie jest gotowe do wynajęcia i zamieszkania **od 1 maja**.
 
 Wynajem **bezpośrednio** od właściciela. **{{ page.price }} zł / mc**{:.nobr} +
 opłaty. Telefon: [**602 890 010**{:.nobr}](tel:+48-602-890-010)
@@ -138,22 +138,21 @@ Poniższe odległości to rzeczywiste odległości przejścia lub przejazdu:
 ## Opłaty
 {: #oplaty}
 * Odstępne: **{{ page.price }} zł / mc**{:.nobr}
-* Miejsce parkingowe w garażu podziemnym: <span>350 zł / mc</span>{:.nobr}
+* Miejsce parkingowe w garażu podziemnym: <span>400 zł / mc</span>{:.nobr}
   (opcjonalnie)
-* Fundusz eksploatacyjny i remontowy: <span>250 zł / mc</span>
-* Opłaty stałe za wodę i ogrzewanie: <span>100 zł / mc</span>{:.nobr}
-* Media **wg liczników**{:.nobr}: prąd,
-  woda <span>(zaliczka 70 zł / os. / mc)</span>{:.nobr},
-  ogrzewanie <span>(zaliczka 30 zł / mc)</span>{:.nobr}
-* Wywóz odpadów komunalnych <span>(27 zł / os. / mc)</span>{:.nobr}
+* Fundusz eksploatacyjny i remontowy: <span>400 zł / mc</span>
+* Opłaty stałe za wodę i ogrzewanie: <span>150 zł / mc</span>{:.nobr}
+* Media **wg liczników**{:.nobr} (przykład dla 2 osób): prąd <span>(200 zł /
+  mc)</span>{:.nobr}, woda i ogrzewanie <span>(350 zł / mc)</span>{:.nobr}
+* Wywóz odpadów komunalnych <span>(35 zł / os. / mc)</span>{:.nobr}
 </section>{: #e-oplaty }
 
 <section>
 ## Warunki
-* Mieszkanie do wynajęcia od zaraz
+* Mieszkanie do wynajęcia od 1 maja
 * Umowa przynajmniej na rok, najchętniej wynajem długoterminowy
 * Dla osób niepalących
-* Kaucja: <span>5700 zł</span>{:.nobr}
+* Kaucja: <span>6000 zł</span>{:.nobr}
 * Zezwolenie na sprawdzenie danych w Biurze Informacji Kredytowej i Biurach
   Informacji Gospodarczej
 </section>{: #f-warunki }
