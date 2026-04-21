@@ -109,14 +109,13 @@ Poniższe odległości to rzeczywiste odległości przejścia lub przejazdu:
 * Komunikacja publiczna
   * **450 m do przystanku tramwajowego Ofiar Dąbia** (linie 1, 14, 22 i nocna
     62)
-  * 450 m do przystanków autobusowych (linie 128 i nocna 662)
+  * 450 m do przystanków autobusowych (linie 125, 128 i nocna 662)
 * Zakupy i usługi
   * **100 m do sklepu spożywczego Lewiatan**
   * 150 m do Żabki
   * 350 m do urzędu pocztowego
   * 400 m do kiosku, piekarni, sklepu mięsnego i warzywniaka
   * 400 m do Biedronki
-  * 1.5 km do Galerii Plaza
   * 2.1 km do Galerii Kazimierz.
   * 2.5 km do Centrum Handlowego M1
 * Zdrowie i rekreacja
@@ -124,10 +123,10 @@ Poniższe odległości to rzeczywiste odległości przejścia lub przejazdu:
     zabaw, siłownia na świeżym powietrzu)
   * 350 m do apteki
   * 350 m do przychodni
-  * 2 km do Szpitala Uniwesyteckiego
+  * 2 km do Szpitala Uniwersyteckiego
 * Dzieci i nauka
   * 500 m do Przedszkola nr 79
-  * 650 m do Szkoły Podstawowej nr 18 im. św. Anny
+  * 700 m do Szkoły Podstawowej nr 18 im. św. Anny
   * 2 km do Krakowskiej Akademii im. Andrzeja Frycza Modrzewskiego
   * 2.5 km do Uniwersytetu Ekonomicznego
 * Inne
